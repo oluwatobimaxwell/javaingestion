@@ -1,0 +1,5758 @@
+[
+  {
+    "brand": "Tecno",
+    "name": "5S",
+    "device": "TECNO-A571LS",
+    "model": "TECNO A571LS"
+  },
+  {
+    "brand": "Tecno",
+    "name": "A7S",
+    "device": "TECNO-A7S",
+    "model": "TECNO-A7S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "C5",
+    "device": "TECNO-C5",
+    "model": "TECNO-C5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "C7",
+    "device": "TECNO-C7",
+    "model": "TECNO-C7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "C8",
+    "device": "TECNO-C8",
+    "model": "TECNO-C8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "C9",
+    "device": "TECNO-C9",
+    "model": "TECNO-C9"
+  },
+  {
+    "brand": "Tecno",
+    "name": "C9S",
+    "device": "TECNO-C9",
+    "model": "TECNO-C9S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 11",
+    "device": "TECNO-CF7",
+    "model": "TECNO CF7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 11",
+    "device": "TECNO-CF7",
+    "model": "TECNO CF7S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 11",
+    "device": "TECNO-CF7k",
+    "model": "TECNO CF7k"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 11 Pro",
+    "device": "TECNO-CF8",
+    "model": "TECNO CF8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 12",
+    "device": "TECNO-CC7",
+    "model": "TECNO CC7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 12",
+    "device": "TECNO-CC7S",
+    "model": "TECNO CC7S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 12 Air",
+    "device": "TECNO-CC6",
+    "model": "TECNO CC6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 15 Air",
+    "device": "TECNO-CD6",
+    "model": "TECNO CD6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 15 Air",
+    "device": "TECNO-CD6",
+    "model": "TECNO CD6S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 15 Premier",
+    "device": "TECNO-CD8j",
+    "model": "TECNO CD8j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 15 Pro",
+    "device": "TECNO-CD8",
+    "model": "TECNO CD8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 16",
+    "device": "TECNO-CE7",
+    "model": "TECNO CE7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 16",
+    "device": "TECNO-CE7j",
+    "model": "TECNO CE7j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 16 (SE)",
+    "device": "TECNO-CE7j",
+    "model": "TECNO CE7j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 16 Pro",
+    "device": "TECNO-CE8",
+    "model": "TECNO CE8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 16 S",
+    "device": "TECNO-CD6j",
+    "model": "TECNO CD6j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 17",
+    "device": "TECNO-CG6",
+    "model": "TECNO CG6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 17",
+    "device": "TECNO-CG6j",
+    "model": "TECNO CG6j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 17 Pro",
+    "device": "TECNO-CG8",
+    "model": "TECNO CG8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 17P",
+    "device": "TECNO-CG7",
+    "model": "TECNO CG7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON 17P",
+    "device": "TECNO-CG7n",
+    "model": "TECNO CG7n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON C7",
+    "device": "TECNO-C7",
+    "model": "TECNO-C7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON CM",
+    "device": "TECNO-CA6",
+    "model": "TECNO CA6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON I Ace",
+    "device": "TECNO-IN1",
+    "model": "TECNO IN1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON X",
+    "device": "TECNO-CA7",
+    "model": "TECNO CA7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON X Pro",
+    "device": "TECNO-CA8",
+    "model": "TECNO CA8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON X Pro",
+    "device": "TECNO-CA8",
+    "model": "TECNO CA8S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON i 2",
+    "device": "TECNO-ID5a",
+    "model": "TECNO ID5a"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON i 2X",
+    "device": "TECNO-ID5b",
+    "model": "TECNO ID5b"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON i 4",
+    "device": "TECNO-CB7",
+    "model": "TECNO CB7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON i 4",
+    "device": "TECNO-CB7j",
+    "model": "TECNO CB7j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON i SKY3",
+    "device": "TECNO-KB3",
+    "model": "TECNO KB3"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON i2",
+    "device": "TECNO-ID5",
+    "model": "TECNO ID5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON iAIR 2+",
+    "device": "TECNO-ID3k",
+    "model": "TECNO ID3k"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON iCLICK 2",
+    "device": "TECNO-ID6",
+    "model": "TECNO ID6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON iClick",
+    "device": "TECNO-IN6",
+    "model": "TECNO IN6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON iSky",
+    "device": "TECNO-IN2",
+    "model": "TECNO IN2"
+  },
+  {
+    "brand": "Tecno",
+    "name": "CAMON iSky2",
+    "device": "TECNO-IN1-Pro",
+    "model": "TECNO IN1 Pro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "COMAN CM",
+    "device": "TECNO-CA6",
+    "model": "TECNO CA6S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Camon 11S",
+    "device": "TECNO-CB7",
+    "model": "TECNO CB7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Camon C9",
+    "device": "TECNO-C9",
+    "model": "TECNO-C9"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Camon CX",
+    "device": "TECNO-CX",
+    "model": "TECNO Camon CX"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Camon CX Air",
+    "device": "TECNO-CX-Air",
+    "model": "TECNO CX Air"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Camon CXS",
+    "device": "TECNO-CX",
+    "model": "TECNO Camon CXS"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Camon I",
+    "device": "TECNO-IN5",
+    "model": "TECNO IN5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Camon I Air",
+    "device": "TECNO-IN3",
+    "model": "TECNO IN3"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Camon i Twin",
+    "device": "TECNO-IA5",
+    "model": "TECNO IA5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "DP10APro-SLA1",
+    "device": "DP10APro",
+    "model": "DP10APro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "DP7CPro-SGA1",
+    "device": "DP7CPro-SGA1",
+    "model": "DP7CPro-SGA1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "DroiPad 10 ProⅡ",
+    "device": "DP10APro",
+    "model": "DP10APro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "DroiPad 10D",
+    "device": "TECNO-P904",
+    "model": "TECNO P904"
+  },
+  {
+    "brand": "Tecno",
+    "name": "DroiPad 7C Pro",
+    "device": "DP7CPRO",
+    "model": "DP7CPRO"
+  },
+  {
+    "brand": "Tecno",
+    "name": "DroiPad 7D",
+    "device": "TECNO-P701",
+    "model": "TECNO P701"
+  },
+  {
+    "brand": "Tecno",
+    "name": "DroiPad 7D LTE",
+    "device": "TECNO-P702",
+    "model": "TECNO P702A"
+  },
+  {
+    "brand": "Tecno",
+    "name": "DroiPad 7D ProLTE",
+    "device": "TECNO-P702",
+    "model": "TECNO P702"
+  },
+  {
+    "brand": "Tecno",
+    "name": "DroiPad 7D ProLTE",
+    "device": "TECNO-P702",
+    "model": "TECNO P702A"
+  },
+  {
+    "brand": "Tecno",
+    "name": "DroiPad 7F",
+    "device": "TECNO-P703",
+    "model": "TECNO P703"
+  },
+  {
+    "brand": "Tecno",
+    "name": "DroiPad 8Ⅱ",
+    "device": "DP8D",
+    "model": "DP8D"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Droipad10",
+    "device": "DP10A",
+    "model": "DP10A"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Droipad10",
+    "device": "DP10A",
+    "model": "TECNO DP10A"
+  },
+  {
+    "brand": "Tecno",
+    "name": "F1",
+    "device": "TECNO-F1",
+    "model": "TECNO F1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "F1",
+    "device": "TECNO-F1-PRO",
+    "model": "TECNO F1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "F2",
+    "device": "TECNO-F2",
+    "model": "TECNO F2"
+  },
+  {
+    "brand": "Tecno",
+    "name": "F2LTE",
+    "device": "TECNO-F2LTE",
+    "model": "TECNO F2LTE"
+  },
+  {
+    "brand": "Tecno",
+    "name": "H5S",
+    "device": "up09_tecno_h5s",
+    "model": "TECNO H5S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "H7S",
+    "device": "qp16_tecno_h7s",
+    "model": "H7S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "J5",
+    "device": "TECNO-J5",
+    "model": "TECNO-J5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "J7",
+    "device": "TECNO-J7",
+    "model": "TECNO-J7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "J8",
+    "device": "TECNO-J8",
+    "model": "TECNO-J8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "L5",
+    "device": "TECNO-L5",
+    "model": "TECNO-L5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "L8",
+    "device": "TECNO-L8",
+    "model": "TECNO-L8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "L8 Lite",
+    "device": "L8Lite",
+    "model": "TECNO L8 Lite"
+  },
+  {
+    "brand": "Tecno",
+    "name": "L8Plus",
+    "device": "TECNO-L8",
+    "model": "TECNO-L8Plus"
+  },
+  {
+    "brand": "Tecno",
+    "name": "L9",
+    "device": "TECNO-L9",
+    "model": "TECNO L9"
+  },
+  {
+    "brand": "Tecno",
+    "name": "L9Plus",
+    "device": "TECNO-L9Plus",
+    "model": "TECNO L9 Plus"
+  },
+  {
+    "brand": "Tecno",
+    "name": "M3",
+    "device": "up11_tecno_m3s",
+    "model": "TECNO M3S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "M6S",
+    "device": "g335_b1",
+    "model": "TECNO-M6S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "N2",
+    "device": "TECNO_N2S",
+    "model": "TECNO-N2"
+  },
+  {
+    "brand": "Tecno",
+    "name": "N2S",
+    "device": "TECNO_N2S",
+    "model": "TECNO-N2S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "N5S",
+    "device": "N5S",
+    "model": "TECNO N5S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "N6",
+    "device": "TECNO-N6",
+    "model": "TECNO-N6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "N6S",
+    "device": "TECNO-N6S",
+    "model": "TECNO-N6S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "N8",
+    "device": "TECNO-N8",
+    "model": "TECNO N8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "N8",
+    "device": "TECNO-N8",
+    "model": "TECNO-N8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "N8R",
+    "device": "N8R",
+    "model": "TECNO-N8R"
+  },
+  {
+    "brand": "Tecno",
+    "name": "N8S",
+    "device": "TECNO-N8S",
+    "model": "TECNO-N8S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "N9",
+    "device": "N9",
+    "model": "TECNO-N9"
+  },
+  {
+    "brand": "Tecno",
+    "name": "N9S",
+    "device": "N9S",
+    "model": "TECNO-N9S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "NX",
+    "device": "TECNO-R8",
+    "model": "TECNO R8O"
+  },
+  {
+    "brand": "Tecno",
+    "name": "NX",
+    "device": "TECNO-R8",
+    "model": "TECNO R8S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "P5",
+    "device": "up08_tecno_p5s",
+    "model": "TECNO P5S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "P702AS",
+    "device": "TECNO-P702",
+    "model": "TECNO P702AS"
+  },
+  {
+    "brand": "Tecno",
+    "name": "PHANTOM-Z-mini",
+    "device": "PTM-Z-mini",
+    "model": "PTM-Z-mini"
+  },
+  {
+    "brand": "Tecno",
+    "name": "PHANTOM5",
+    "device": "TECNO-PHANTOM5",
+    "model": "TECNO-PHANTOM5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP 1 Pro",
+    "device": "TECNO-F3-13M",
+    "model": "TECNO F3"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP 1s",
+    "device": "TECNO-F4",
+    "model": "TECNO F4"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP 1s Pro",
+    "device": "TECNO-F4Pro",
+    "model": "TECNO F4 Pro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP 2",
+    "device": "TECNO-B1",
+    "model": "TECNO B1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP 2",
+    "device": "TECNO-B1S",
+    "model": "TECNO B1S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP 2 Plus",
+    "device": "TECNO-BA2",
+    "model": "TECNO BA2"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP 2 Power",
+    "device": "TECNO-B1p",
+    "model": "TECNO B1p"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP 2F",
+    "device": "TECNO-B1f",
+    "model": "TECNO B1f"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP 2S",
+    "device": "TECNO-RA8",
+    "model": "TECNO RA8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP 2s",
+    "device": "TECNO-KB2h",
+    "model": "TECNO KB2h"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP 3 Plus",
+    "device": "TECNO-BB4",
+    "model": "TECNO BB4"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP 4 LTE",
+    "device": "TECNO-BC1s",
+    "model": "TECNO BC1s"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP 4 Pro",
+    "device": "TECNO-BC3",
+    "model": "TECNO BC3"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POP1",
+    "device": "TECNO-F3",
+    "model": "TECNO F3"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POVA",
+    "device": "TECNO-LD7",
+    "model": "TECNO LD7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "POVA",
+    "device": "TECNO-LD7j",
+    "model": "TECNO LD7j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Phantom 9",
+    "device": "TECNO-AB7",
+    "model": "TECNO AB7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Phantom6",
+    "device": "Phantom6",
+    "model": "Phantom6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Phantom6 plus",
+    "device": "Phantom6-Plus",
+    "model": "Phantom6-Plus"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Phantom6S",
+    "device": "Phantom6",
+    "model": "Phantom6S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Phantom8",
+    "device": "TECNO-AX8",
+    "model": "TECNO AX8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Phantom8S",
+    "device": "TECNO-AX8",
+    "model": "TECNO AX8S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "PhonePad 3",
+    "device": "TECNO-PP7FPro",
+    "model": "TECNO PhonePad 3"
+  },
+  {
+    "brand": "Tecno",
+    "name": "PhonePad 7 II",
+    "device": "PP7E-DLA1",
+    "model": "TECNO PP7E-DLA1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "PhonePad 7 II",
+    "device": "PP7E-DLA1",
+    "model": "TECNO PP7E-SLA1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Pouvoir 1",
+    "device": "TECNO-LA6",
+    "model": "TECNO LA6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Pouvoir 2",
+    "device": "TECNO-LA7",
+    "model": "TECNO LA7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Pouvoir 2 Pro",
+    "device": "TECNO-LA7-13M",
+    "model": "TECNO LA7 Pro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Pouvoir 3",
+    "device": "TECNO-LB7",
+    "model": "TECNO LB7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Pouvoir 3 Air",
+    "device": "TECNO-LC6",
+    "model": "TECNO LC6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Pouvoir 3 Air",
+    "device": "TECNO-LC6a",
+    "model": "TECNO LC6a"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Pouvoir 4",
+    "device": "TECNO-LC7",
+    "model": "TECNO LC7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Pouvoir 4",
+    "device": "TECNO-LC7",
+    "model": "TECNO LC7S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Pouvoir 4 Pro",
+    "device": "TECNO-LC8",
+    "model": "TECNO LC8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "R6",
+    "device": "TECNO-R6",
+    "model": "TECNO R6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "R6+",
+    "device": "TECNO-RA6",
+    "model": "TECNO RA6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "R7 4G",
+    "device": "TECNO-F2LTE",
+    "model": "TECNO RA7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "RA6",
+    "device": "TECNO-RA6",
+    "model": "TECNO RA6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "RA6",
+    "device": "TECNO-RA6",
+    "model": "TECNO RA6S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "S1",
+    "device": "TECNO-S1",
+    "model": "TECNO S1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "S1",
+    "device": "TECNO-S1",
+    "model": "TECNO S1M"
+  },
+  {
+    "brand": "Tecno",
+    "name": "S1 Pro",
+    "device": "TECNO-S1-Pro",
+    "model": "TECNO S1 Pro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "S1 Pro",
+    "device": "TECNO-S1-Pro",
+    "model": "TECNO S1E Pro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "S1E Pro",
+    "device": "TECNO-S1-Pro",
+    "model": "TECNO S1E Pro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "S2",
+    "device": "TECNO-SA1",
+    "model": "TECNO SA1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "S6",
+    "device": "TECNO-S6S",
+    "model": "TECNO S6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "S6S",
+    "device": "TECNO-S6S",
+    "model": "TECNO S6S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "S6s",
+    "device": "TECNO-S6S",
+    "model": "TECNO S6S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SA1 Pro",
+    "device": "TECNO-SA1S-PRO",
+    "model": "TECNO SA1S Pro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SA6",
+    "device": "TECNO-SA6",
+    "model": "TECNO SA6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SA6",
+    "device": "TECNO-SA6",
+    "model": "TECNO SA6S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SMART 5",
+    "device": "Infinix-X657B",
+    "model": "Infinix X657B"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK",
+    "device": "TECNO-K7",
+    "model": "TECNO K7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 2",
+    "device": "TECNO-KA7-GO",
+    "model": "TECNO KA7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 2",
+    "device": "TECNO-KA7-O",
+    "model": "TECNO KA7O"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 2 YOUTH",
+    "device": "TECNO-LB6",
+    "model": "TECNO LB6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 3",
+    "device": "TECNO-KB7",
+    "model": "TECNO KB7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 3",
+    "device": "TECNO-KB7j",
+    "model": "TECNO KB7j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 3 Pro",
+    "device": "TECNO-KB8",
+    "model": "TECNO KB8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 4",
+    "device": "TECNO-KC8",
+    "model": "TECNO KC8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 4",
+    "device": "TECNO-KC8S",
+    "model": "TECNO KC8S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 4 Lite",
+    "device": "TECNO-BB4k",
+    "model": "TECNO BB4k"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 5 Air",
+    "device": "TECNO-KD6",
+    "model": "TECNO KD6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 5 Air",
+    "device": "TECNO-KD6",
+    "model": "TECNO KD6a"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 6 Air",
+    "device": "TECNO-KE6",
+    "model": "TECNO KE6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 6 Air",
+    "device": "TECNO-KE6j",
+    "model": "TECNO KE6j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 6 GO",
+    "device": "TECNO-KE5j",
+    "model": "TECNO KE5j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 6 GO",
+    "device": "TECNO-KE5k",
+    "model": "TECNO KE5k"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 6 Go",
+    "device": "TECNO-KE5",
+    "model": "TECNO KE5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK 6 Go",
+    "device": "TECNO-KE5k",
+    "model": "TECNO KE5k"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK CM",
+    "device": "TECNO-KA9",
+    "model": "TECNO KA9"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK Go 2020",
+    "device": "TECNO-KE5S",
+    "model": "TECNO KE5S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK Go 2021(SPARK 6 Go)",
+    "device": "TECNO-KE5",
+    "model": "TECNO KE5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK Go Plus",
+    "device": "TECNO-BB4k",
+    "model": "TECNO BB4k"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK Plus",
+    "device": "TECNO-K9",
+    "model": "TECNO K9"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK Pro",
+    "device": "TECNO-K8",
+    "model": "TECNO K8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "SPARK Youth",
+    "device": "TECNO-KA6",
+    "model": "TECNO KA6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO AX8",
+    "device": "TECNO-AX8",
+    "model": "TECNO AX8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 12 Air",
+    "device": "TECNO-KC3",
+    "model": "TECNO KC3"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 12 Pro",
+    "device": "TECNO-CC9",
+    "model": "TECNO CC9"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 15",
+    "device": "TECNO-CD7",
+    "model": "TECNO CD7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 16",
+    "device": "TECNO-CE9h",
+    "model": "TECNO CE9h"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CAMON 16 Premier",
+    "device": "TECNO-CE9",
+    "model": "TECNO CE9"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CAMON iACE 2",
+    "device": "TECNO-KB2",
+    "model": "TECNO KB2"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CAMON iACE 2x",
+    "device": "TECNO-KB2j",
+    "model": "TECNO KB2j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO CX Air",
+    "device": "TECNO-CX-Air",
+    "model": "TECNO CX Air"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO K7",
+    "device": "TECNO-K7",
+    "model": "TECNO K7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO K9",
+    "device": "TECNO-K9",
+    "model": "TECNO K9"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO P904",
+    "device": "TECNO-P904",
+    "model": "TECNO P904"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POP 2 Air",
+    "device": "TECNO-SC7S",
+    "model": "TECNO SC7S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POP 2F",
+    "device": "TECNO-B1g",
+    "model": "TECNO B1g"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POP 2X Plus",
+    "device": "TECNO-RB8S",
+    "model": "TECNO RB8S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POP 2s Pro",
+    "device": "TECNO-KB2j",
+    "model": "TECNO KB2j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POP 3",
+    "device": "TECNO-BB2",
+    "model": "TECNO BB2"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POP 4",
+    "device": "TECNO-BC2",
+    "model": "TECNO BC2"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POP 4",
+    "device": "TECNO-BC2c",
+    "model": "TECNO BC2c"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POP 4 Air",
+    "device": "TECNO-BC1",
+    "model": "TECNO BC1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POP 5",
+    "device": "TECNO-BD2",
+    "model": "TECNO BD2"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POP X5",
+    "device": "TECNO-L6502S",
+    "model": "TECNO L6502S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POVA 2",
+    "device": "TECNO-LE7",
+    "model": "TECNO LE7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO POVA 2",
+    "device": "TECNO-LE7n",
+    "model": "TECNO LE7n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO R6S",
+    "device": "TECNO-R6",
+    "model": "TECNO R6S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO R7+",
+    "device": "TECNO-RC6",
+    "model": "TECNO RC6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO RB7S",
+    "device": "TECNO-RB7S",
+    "model": "TECNO RB7S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO S1 Lite",
+    "device": "TECNO-S1Lite",
+    "model": "TECNO S1 Lite"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SA2S",
+    "device": "TECNO-SA2S",
+    "model": "TECNO SA2S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SA7S",
+    "device": "TECNO-SA7S",
+    "model": "TECNO SA7S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 4",
+    "device": "TECNO-KC2",
+    "model": "TECNO KC2"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 4",
+    "device": "TECNO-KC2j",
+    "model": "TECNO KC2j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 4 Air",
+    "device": "TECNO-KC1j",
+    "model": "TECNO KC1j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 4 Air",
+    "device": "TECNO-KC6",
+    "model": "TECNO KC6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 4 Air",
+    "device": "TECNO-KC6S",
+    "model": "TECNO KC6S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 5",
+    "device": "TECNO-KD7h",
+    "model": "TECNO KD7S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 5",
+    "device": "TECNO-KD7h",
+    "model": "TECNO KD7h"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 5 Pro",
+    "device": "TECNO-KD7",
+    "model": "TECNO KD7"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 7",
+    "device": "TECNO-KF6",
+    "model": "TECNO KF6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 7",
+    "device": "TECNO-KF6h",
+    "model": "TECNO KF6h"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 7",
+    "device": "TECNO-KF6i",
+    "model": "TECNO KF6i"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 7",
+    "device": "TECNO-KF6j",
+    "model": "TECNO KF6j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 7",
+    "device": "TECNO-KF6k",
+    "model": "TECNO KF6k"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 7",
+    "device": "TECNO-KF6m",
+    "model": "TECNO KF6m"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 7",
+    "device": "TECNO-KF6n",
+    "model": "TECNO KF6n"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 7 Pro",
+    "device": "TECNO-KF8",
+    "model": "TECNO KF8"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 7P",
+    "device": "TECNO-KF7j",
+    "model": "TECNO KF7j"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK 7T",
+    "device": "TECNO-KF6p",
+    "model": "TECNO KF6p"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO SPARK Go",
+    "device": "TECNO-KC1",
+    "model": "TECNO KC1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO Tab",
+    "device": "TECNO-P704",
+    "model": "TECNO P704"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO Tab",
+    "device": "TECNO-P704a",
+    "model": "TECNO P704a"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO W5",
+    "device": "TECNO-W5",
+    "model": "TECNO-W5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO WX4 Pro S",
+    "device": "TECNO-WX4-Pro",
+    "model": "TECNO WX4 Pro S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO-W5",
+    "device": "TECNO-W5",
+    "model": "TECNO-W5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO-Y2",
+    "device": "TECNO-Y2",
+    "model": "TECNO-Y2"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNO-Y2",
+    "device": "TECNO-Y2",
+    "model": "TECNO-Y3+"
+  },
+  {
+    "brand": "Tecno",
+    "name": "TECNOPOP 5C",
+    "device": "TECNO-W5006S",
+    "model": "TECNO W5006S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Techno L6",
+    "device": "TECNO-L6",
+    "model": "TECNO-L6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Tecno pop 2x Air",
+    "device": "TECNO-RB6S",
+    "model": "TECNO RB6S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "W1",
+    "device": "TECNO_W1",
+    "model": "TECNO W1"
+  },
+  {
+    "brand": "Tecno",
+    "name": "W2",
+    "device": "TECNO_W2",
+    "model": "TECNO W2"
+  },
+  {
+    "brand": "Tecno",
+    "name": "W3",
+    "device": "TECNO-W3",
+    "model": "TECNO-W3"
+  },
+  {
+    "brand": "Tecno",
+    "name": "W3 Pro",
+    "device": "TECNO-W3Pro",
+    "model": "TECNO W3 Pro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "W3LTE",
+    "device": "TECNO-W3LTE",
+    "model": "TECNO-W3LTE"
+  },
+  {
+    "brand": "Tecno",
+    "name": "W4",
+    "device": "TECNO_W4",
+    "model": "TECNO_W4"
+  },
+  {
+    "brand": "Tecno",
+    "name": "W5",
+    "device": "TECNO-W5",
+    "model": "TECNO-W5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "W5 Lite",
+    "device": "W5Lite",
+    "model": "TECNO W5 Lite"
+  },
+  {
+    "brand": "Tecno",
+    "name": "WX3",
+    "device": "TECNO-WX3",
+    "model": "TECNO WX3"
+  },
+  {
+    "brand": "Tecno",
+    "name": "WX3 FLTE",
+    "device": "TECNO-WX3FLTE",
+    "model": "TECNO WX3F LTE"
+  },
+  {
+    "brand": "Tecno",
+    "name": "WX3F LTE",
+    "device": "TECNO-WX3FLTE",
+    "model": "TECNO WX3F LTE"
+  },
+  {
+    "brand": "Tecno",
+    "name": "WX3LTE",
+    "device": "TECNO-WX3LTE",
+    "model": "TECNO WX3LTE"
+  },
+  {
+    "brand": "Tecno",
+    "name": "WX3P",
+    "device": "TECNO-WX3P",
+    "model": "TECNO WX3P"
+  },
+  {
+    "brand": "Tecno",
+    "name": "WX4",
+    "device": "TECNO-WX4",
+    "model": "TECNO WX4"
+  },
+  {
+    "brand": "Tecno",
+    "name": "WX4 Pro",
+    "device": "TECNO-WX4-Pro",
+    "model": "TECNO WX4 Pro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "WX4 Pro S",
+    "device": "TECNO-WX4-Pro",
+    "model": "TECNO WX4 Pro S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Y3",
+    "device": "TECNO-Y3",
+    "model": "TECNO-Y3"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Y3+",
+    "device": "TECNO-Y2",
+    "model": "TECNO-Y2"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Y3+",
+    "device": "TECNO-Y2",
+    "model": "TECNO-Y3+"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Y3S",
+    "device": "TECNO-Y3S",
+    "model": "TECNO-Y3S"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Y4",
+    "device": "TECNO-Y4",
+    "model": "TECNO-Y4"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Y5",
+    "device": "TECNO-Y5",
+    "model": "TECNO-Y5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "Y6",
+    "device": "TECNO-Y6",
+    "model": "TECNO-Y6"
+  },
+  {
+    "brand": "Tecno",
+    "name": "i3",
+    "device": "TECNO-i3",
+    "model": "TECNO i3"
+  },
+  {
+    "brand": "Tecno",
+    "name": "i3 Pro",
+    "device": "TECNO-i3-Pro",
+    "model": "TECNO i3 Pro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "i3-Pro",
+    "device": "TECNO-i3-Pro",
+    "model": "TECNO i3 Pro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "i5",
+    "device": "TECNO-i5",
+    "model": "TECNO i5"
+  },
+  {
+    "brand": "Tecno",
+    "name": "i5-Pro",
+    "device": "TECNO-i5-Pro",
+    "model": "TECNO i5 Pro"
+  },
+  {
+    "brand": "Tecno",
+    "name": "i7",
+    "device": "TECNO-i7",
+    "model": "TECNO i7"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "GT-I5510M",
+    "model": "GT-I5510M"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "GT-I5510T",
+    "model": "GT-I5510T"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "GT-I5800L",
+    "model": "GT-I5800L"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "GT-N7000B",
+    "model": "GT-N7000B"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "GT-P7300B",
+    "model": "GT-P7300B"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "GT-P7320T",
+    "model": "GT-P7320T"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "GT-P7500M",
+    "model": "GT-P7500M"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "GT-P7500R",
+    "model": "GT-P7500R"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "GT-P7500V",
+    "model": "GT-P7500V"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "GT-S5698",
+    "model": "GT-S5698"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "GT-S5820",
+    "model": "GT-S5820"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "GT-S5830V",
+    "model": "GT-S5830V"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-I339",
+    "model": "SCH-I339"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-I405U",
+    "model": "SCH-I405U"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-I509U",
+    "model": "SCH-I509U"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-I519",
+    "model": "SCH-I519"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-I559",
+    "model": "SCH-I559"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-I559",
+    "model": "SCH-i559"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-I639",
+    "model": "SCH-I639"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-I659",
+    "model": "SCH-I659"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-I699",
+    "model": "SCH-I699"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-I779",
+    "model": "SCH-I779"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-I919U",
+    "model": "SCH-I919U"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-W899",
+    "model": "SCH-W899"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-W999",
+    "model": "SCH-W999"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-i809",
+    "model": "SCH-i809"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SCH-i919",
+    "model": "SCH-i919"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SGH-I987",
+    "model": "SGH-I987"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SGH_T939",
+    "model": "Behold II"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SHV-E150S",
+    "model": "SHV-E150S"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SHW-M115S",
+    "model": "SHW-M115S"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SHW-M135K",
+    "model": "SHW-M135K"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SHW-M135L",
+    "model": "SHW-M135L"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SHW-M340D",
+    "model": "SHW-M340D"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SHW-M340K",
+    "model": "SHW-M340K"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "SHW-M460D",
+    "model": "SHW-M460D"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "amazingtrf",
+    "model": "SGH-S730G"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "aruba3gchn",
+    "model": "GT-I8262D"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "espressorfcmcc",
+    "model": "GT-P3108"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "gd1ltektt",
+    "model": "EK-KC120K"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "godivaltevzw",
+    "model": "SCH-I425"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "ironcmcc",
+    "model": "GT-B9388"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "m0grandectc",
+    "model": "SCH-W2013"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "m0grandectc",
+    "model": "SCH-W9913"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "p4noterfskt",
+    "model": "SHW-M480S"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "stunnerltespr",
+    "model": "SPH-L500"
+  },
+  {
+    "brand": "Samsung",
+    "name": "",
+    "device": "superiorchn",
+    "model": "GT-I9260"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Galaxy A7(2016)",
+    "device": "a7xltechn",
+    "model": "SM-A710XZ"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Absolute",
+    "device": "GT-B9120",
+    "model": "GT-B9120"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Acclaim",
+    "device": "SCH-R880",
+    "model": "SCH-R880"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Admire",
+    "device": "SCH-R720",
+    "model": "SCH-R720"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Amazing",
+    "device": "amazingtrf",
+    "model": "SGH-S730M"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Baffin",
+    "device": "baffinltelgt",
+    "model": "SHV-E270L"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Captivate Glide",
+    "device": "SGH-I927",
+    "model": "SAMSUNG-SGH-I927"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Captivate Glide",
+    "device": "SGH-I927",
+    "model": "SGH-I927"
+  },
+  {
+    "brand": "Samsung",
+    "name": "China Telecom",
+    "device": "kylevectc",
+    "model": "SCH-I699I"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Chromebook 3",
+    "device": "celes_cheets",
+    "model": "Samsung Chromebook 3"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Chromebook Plus",
+    "device": "kevin_cheets",
+    "model": "Samsung Chromebook Plus"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Chromebook Plus",
+    "device": "kevin_cheets",
+    "model": "kevin"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Chromebook Plus (V2)",
+    "device": "nautilus_cheets",
+    "model": "Samsung Chromebook Plus (V2)"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Chromebook Plus (V2)",
+    "device": "nautilus_cheets",
+    "model": "nautilus"
+  },
+  {
+    "brand": "Samsung",
+    "name": "Chromebook Pro",
+    "device": "caroline_cheets",
+    "model": "Samsung Chromebook Pro"
+  },
+  {
+    "name": "AirPods (1st generation)",
+    "model": "AirPods1,1"
+  },
+  {
+    "name": "AirPods (2nd generation)",
+    "model": "AirPods2,1"
+  },
+  {
+    "name": "AirPods Pro",
+    "model": "iProd8,1"
+  },
+  {
+    "name": "Apple TV (1st generation)",
+    "model": "AppleTV1,1"
+  },
+  {
+    "name": "Apple TV (2nd generation)",
+    "model": "AppleTV2,1"
+  },
+  {
+    "name": "Apple TV (3rd generation)",
+    "model": "AppleTV3,1"
+  },
+  {
+    "name": "Apple TV (3rd generation)",
+    "model": "AppleTV3,2"
+  },
+  {
+    "name": "Apple TV (4th generation)",
+    "model": "AppleTV5,3"
+  },
+  {
+    "name": "Apple TV 4K",
+    "model": "AppleTV6,2"
+  },
+  {
+    "name": "Apple Watch (1st generation)",
+    "model": "Watch1,1"
+  },
+  {
+    "name": "Apple Watch (1st generation)",
+    "model": "Watch1,2"
+  },
+  {
+    "name": "Apple Watch Series 1",
+    "model": "Watch2,6"
+  },
+  {
+    "name": "Apple Watch Series 1",
+    "model": "Watch2,7"
+  },
+  {
+    "name": "Apple Watch Series 2",
+    "model": "Watch2,3"
+  },
+  {
+    "name": "Apple Watch Series 2",
+    "model": "Watch2,4"
+  },
+  {
+    "name": "Apple Watch Series 3",
+    "model": "Watch3,1"
+  },
+  {
+    "name": "Apple Watch Series 3",
+    "model": "Watch3,2"
+  },
+  {
+    "name": "Apple Watch Series 3",
+    "model": "Watch3,3"
+  },
+  {
+    "name": "Apple Watch Series 3",
+    "model": "Watch3,4"
+  },
+  {
+    "name": "Apple Watch Series 4",
+    "model": "Watch4,1"
+  },
+  {
+    "name": "Apple Watch Series 4",
+    "model": "Watch4,2"
+  },
+  {
+    "name": "Apple Watch Series 4",
+    "model": "Watch4,3"
+  },
+  {
+    "name": "Apple Watch Series 4",
+    "model": "Watch4,4"
+  },
+  {
+    "name": "Apple Watch Series 5",
+    "model": "Watch5,1"
+  },
+  {
+    "name": "Apple Watch Series 5",
+    "model": "Watch5,2"
+  },
+  {
+    "name": "Apple Watch Series 5",
+    "model": "Watch5,3"
+  },
+  {
+    "name": "Apple Watch Series 5",
+    "model": "Watch5,4"
+  },
+  {
+    "name": "Apple Watch SE",
+    "model": "Watch5,9"
+  },
+  {
+    "name": "Apple Watch SE",
+    "model": "Watch5,10"
+  },
+  {
+    "name": "Apple Watch SE",
+    "model": "Watch5,11"
+  },
+  {
+    "name": "Apple Watch SE",
+    "model": "Watch5,12"
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "model": "Watch6,1"
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "model": "Watch6,2"
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "model": "Watch6,3"
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "model": "Watch6,4"
+  },
+  {
+    "name": "HomePod",
+    "model": "AudioAccessory1,1"
+  },
+  {
+    "name": "HomePod",
+    "model": "AudioAccessory1,2"
+  },
+  {
+    "name": "HomePod mini",
+    "model": "AudioAccessory5,1"
+  },
+  {
+    "name": "iPad",
+    "model": "iPad1,1"
+  },
+  {
+    "name": "iPad",
+    "model": "iPad1,1"
+  },
+  {
+    "name": "iPad 2",
+    "model": "iPad2,1"
+  },
+  {
+    "name": "iPad 2",
+    "model": "iPad2,2"
+  },
+  {
+    "name": "iPad 2",
+    "model": "iPad2,3"
+  },
+  {
+    "name": "iPad 2",
+    "model": "iPad2,4"
+  },
+  {
+    "name": "iPad (3rd generation)",
+    "model": "iPad3,1"
+  },
+  {
+    "name": "iPad (3rd generation)",
+    "model": "iPad3,2"
+  },
+  {
+    "name": "iPad (3rd generation)",
+    "model": "iPad3,3"
+  },
+  {
+    "name": "iPad (4th generation)",
+    "model": "iPad3,4"
+  },
+  {
+    "name": "iPad (4th generation)",
+    "model": "iPad3,5"
+  },
+  {
+    "name": "iPad (4th generation)",
+    "model": "iPad3,6"
+  },
+  {
+    "name": "iPad (5th generation)",
+    "model": "iPad6,11"
+  },
+  {
+    "name": "iPad (5th generation)",
+    "model": "iPad6,12"
+  },
+  {
+    "name": "iPad (6th generation)",
+    "model": "iPad7,5"
+  },
+  {
+    "name": "iPad (6th generation)",
+    "model": "iPad7,6"
+  },
+  {
+    "name": "iPad (7th generation)",
+    "model": "iPad7,11"
+  },
+  {
+    "name": "iPad (7th generation)",
+    "model": "iPad7,12"
+  },
+  {
+    "name": "iPad (8th generation)",
+    "model": "iPad11,6"
+  },
+  {
+    "name": "iPad (8th generation)",
+    "model": "iPad11,7"
+  },
+  {
+    "name": "iPad Air",
+    "model": "iPad4,1"
+  },
+  {
+    "name": "iPad Air",
+    "model": "iPad4,2"
+  },
+  {
+    "name": "iPad Air",
+    "model": "iPad4,3"
+  },
+  {
+    "name": "iPad Air 2",
+    "model": "iPad5,3"
+  },
+  {
+    "name": "iPad Air 2",
+    "model": "iPad5,4"
+  },
+  {
+    "name": "iPad Air (3rd generation)",
+    "model": "iPad11,3"
+  },
+  {
+    "name": "iPad Air (3rd generation)",
+    "model": "iPad11,4"
+  },
+  {
+    "name": "iPad Air (4th generation)",
+    "model": "iPad13,1"
+  },
+  {
+    "name": "iPad Air (4th generation)",
+    "model": "iPad13,2"
+  },
+  {
+    "name": "iPad Pro (12.9-inch)",
+    "model": "iPad6,7"
+  },
+  {
+    "name": "iPad Pro (12.9-inch)",
+    "model": "iPad6,8"
+  },
+  {
+    "name": "iPad Pro (9.7-inch)",
+    "model": "iPad6,3"
+  },
+  {
+    "name": "iPad Pro (9.7-inch)",
+    "model": "iPad6,4"
+  },
+  {
+    "name": "iPad Pro (12.9-inch, 2nd generation)",
+    "model": "iPad7,1"
+  },
+  {
+    "name": "iPad Pro (12.9-inch, 2nd generation)",
+    "model": "iPad7,2"
+  },
+  {
+    "name": "iPad Pro (10.5-inch)",
+    "model": "iPad7,3"
+  },
+  {
+    "name": "iPad Pro (10.5-inch)",
+    "model": "iPad7,4"
+  },
+  {
+    "name": "iPad Pro (11-inch)",
+    "model": "iPad8,1"
+  },
+  {
+    "name": "iPad Pro (11-inch)",
+    "model": "iPad8,2"
+  },
+  {
+    "name": "iPad Pro (11-inch)",
+    "model": "iPad8,3"
+  },
+  {
+    "name": "iPad Pro (11-inch)",
+    "model": "iPad8,4"
+  },
+  {
+    "name": "iPad Pro (11-inch)",
+    "model": "iPad8,3"
+  },
+  {
+    "name": "iPad Pro (11-inch)",
+    "model": "iPad8,4"
+  },
+  {
+    "name": "iPad Pro (11-inch)",
+    "model": "iPad8,3"
+  },
+  {
+    "name": "iPad Pro (11-inch)",
+    "model": "iPad8,4"
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (3rd generation)",
+    "model": "iPad8,5"
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (3rd generation)",
+    "model": "iPad8,6"
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (3rd generation)",
+    "model": "iPad8,7"
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (3rd generation)",
+    "model": "iPad8,8"
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (3rd generation)",
+    "model": "iPad8,7"
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (3rd generation)",
+    "model": "iPad8,8"
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (3rd generation)",
+    "model": "iPad8,7"
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (3rd generation)",
+    "model": "iPad8,8"
+  },
+  {
+    "name": "iPad Pro (11-inch) (2nd generation)",
+    "model": "iPad8,9"
+  },
+  {
+    "name": "iPad Pro (11-inch) (2nd generation)",
+    "model": "iPad8,10"
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (4th generation)",
+    "model": "iPad8,11"
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (4th generation)",
+    "model": "iPad8,12"
+  },
+  {
+    "name": "iPad mini",
+    "model": "iPad2,5"
+  },
+  {
+    "name": "iPad mini",
+    "model": "iPad2,6"
+  },
+  {
+    "name": "iPad mini",
+    "model": "iPad2,7"
+  },
+  {
+    "name": "iPad mini 2",
+    "model": "iPad4,4"
+  },
+  {
+    "name": "iPad mini 2",
+    "model": "iPad4,5"
+  },
+  {
+    "name": "iPad mini 2",
+    "model": "iPad4,6"
+  },
+  {
+    "name": "iPad mini 3",
+    "model": "iPad4,7"
+  },
+  {
+    "name": "iPad mini 3",
+    "model": "iPad4,8"
+  },
+  {
+    "name": "iPad mini 3",
+    "model": "iPad4,9"
+  },
+  {
+    "name": "iPad mini 4",
+    "model": "iPad5,1"
+  },
+  {
+    "name": "iPad mini 4",
+    "model": "iPad5,2"
+  },
+  {
+    "name": "iPad mini (5th generation)",
+    "model": "iPad11,1"
+  },
+  {
+    "name": "iPad mini (5th generation)",
+    "model": "iPad11,2"
+  },
+  {
+    "name": "iPhone",
+    "model": "iPhone1,1"
+  },
+  {
+    "name": "iPhone 3G",
+    "model": "iPhone1,2"
+  },
+  {
+    "name": "iPhone 3GS",
+    "model": "iPhone2,1"
+  },
+  {
+    "name": "iPhone 4",
+    "model": "iPhone3,1"
+  },
+  {
+    "name": "iPhone 4",
+    "model": "iPhone3,2"
+  },
+  {
+    "name": "iPhone 4",
+    "model": "iPhone3,3"
+  },
+  {
+    "name": "iPhone 4S",
+    "model": "iPhone4,1"
+  },
+  {
+    "name": "iPhone 5",
+    "model": "iPhone5,1"
+  },
+  {
+    "name": "iPhone 5",
+    "model": "iPhone5,2"
+  },
+  {
+    "name": "iPhone 5c",
+    "model": "iPhone5,3"
+  },
+  {
+    "name": "iPhone 5c",
+    "model": "iPhone5,4"
+  },
+  {
+    "name": "iPhone 5s",
+    "model": "iPhone6,1"
+  },
+  {
+    "name": "iPhone 5s",
+    "model": "iPhone6,2"
+  },
+  {
+    "name": "iPhone SE (1st generation)",
+    "model": "iPhone8,4"
+  },
+  {
+    "name": "iPhone 6",
+    "model": "iPhone7,2"
+  },
+  {
+    "name": "iPhone 6 Plus",
+    "model": "iPhone7,1"
+  },
+  {
+    "name": "iPhone 6s",
+    "model": "iPhone8,1"
+  },
+  {
+    "name": "iPhone 6s Plus",
+    "model": "iPhone8,2"
+  },
+  {
+    "name": "iPhone 7",
+    "model": "iPhone9,1"
+  },
+  {
+    "name": "iPhone 7",
+    "model": "iPhone9,3"
+  },
+  {
+    "name": "iPhone 7 Plus",
+    "model": "iPhone9,2"
+  },
+  {
+    "name": "iPhone 7 Plus",
+    "model": "iPhone9,4"
+  },
+  {
+    "name": "iPhone 8",
+    "model": "iPhone10,1"
+  },
+  {
+    "name": "iPhone 8",
+    "model": "iPhone10,1"
+  },
+  {
+    "name": "iPhone 8",
+    "model": "iPhone10,4"
+  },
+  {
+    "name": "iPhone 8",
+    "model": "iPhone10,4"
+  },
+  {
+    "name": "iPhone 8 Plus",
+    "model": "iPhone10,2"
+  },
+  {
+    "name": "iPhone 8 Plus",
+    "model": "iPhone10,5"
+  },
+  {
+    "name": "iPhone X",
+    "model": "iPhone10,3"
+  },
+  {
+    "name": "iPhone X",
+    "model": "iPhone10,6"
+  },
+  {
+    "name": "iPhone XR",
+    "model": "iPhone11,8"
+  },
+  {
+    "name": "iPhone XR",
+    "model": "iPhone11,8"
+  },
+  {
+    "name": "iPhone XR",
+    "model": "iPhone11,8"
+  },
+  {
+    "name": "iPhone XR",
+    "model": "iPhone11,8"
+  },
+  {
+    "name": "iPhone XS",
+    "model": "iPhone11,2"
+  },
+  {
+    "name": "iPhone XS",
+    "model": "iPhone11,2"
+  },
+  {
+    "name": "iPhone XS",
+    "model": "iPhone11,2"
+  },
+  {
+    "name": "iPhone XS",
+    "model": "iPhone11,2"
+  },
+  {
+    "name": "iPhone XS Max",
+    "model": "iPhone11,4"
+  },
+  {
+    "name": "iPhone XS Max",
+    "model": "iPhone11,4"
+  },
+  {
+    "name": "iPhone XS Max",
+    "model": "iPhone11,4"
+  },
+  {
+    "name": "iPhone XS Max",
+    "model": "iPhone11,6"
+  },
+  {
+    "name": "iPhone 11",
+    "model": "iPhone12,1"
+  },
+  {
+    "name": "iPhone 11",
+    "model": "iPhone12,1"
+  },
+  {
+    "name": "iPhone 11",
+    "model": "iPhone12,1"
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "model": "iPhone12,3"
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "model": "iPhone12,3"
+  },
+  {
+    "name": "iPhone 11 Pro",
+    "model": "iPhone12,3"
+  },
+  {
+    "name": "iPhone 11 Pro Max",
+    "model": "iPhone12,5"
+  },
+  {
+    "name": "iPhone 11 Pro Max",
+    "model": "iPhone12,5"
+  },
+  {
+    "name": "iPhone 11 Pro Max",
+    "model": "iPhone12,5"
+  },
+  {
+    "name": "iPhone SE (2nd generation)",
+    "model": "iPhone12,8"
+  },
+  {
+    "name": "iPhone 12 mini",
+    "model": "iPhone13,1"
+  },
+  {
+    "name": "iPhone 12",
+    "model": "iPhone13,2"
+  },
+  {
+    "name": "iPhone 12 Pro",
+    "model": "iPhone13,3"
+  },
+  {
+    "name": "iPhone 12 Pro Max",
+    "model": "iPhone13,4"
+  },
+  {
+    "name": "iPod touch",
+    "model": "iPod1,1"
+  },
+  {
+    "name": "iPod touch (2nd generation)",
+    "model": "iPod2,1"
+  },
+  {
+    "name": "iPod touch (2nd generation)",
+    "model": "iPod2,1"
+  },
+  {
+    "name": "iPod touch (3rd generation)",
+    "model": "iPod3,1"
+  },
+  {
+    "name": "iPod touch (4th generation)",
+    "model": "iPod4,1"
+  },
+  {
+    "name": "iPod touch (5th generation)",
+    "model": "iPod5,1"
+  },
+  {
+    "name": "iPod touch (5th generation)",
+    "model": "iPod5,1"
+  },
+  {
+    "name": "iPod touch (6th generation)",
+    "model": "iPod7,1"
+  },
+  {
+    "name": "iPod touch (7th generation)",
+    "model": "iPod9,1"
+  },
+  {
+    "brand": "Gionee",
+    "name": "A1",
+    "device": "GIONEE_SWW1609",
+    "model": "GIONEE A1"
+  },
+  {
+    "brand": "Gionee",
+    "name": "A1 Lite",
+    "device": "GIONEE_SWW1618",
+    "model": "A1 lite"
+  },
+  {
+    "brand": "Gionee",
+    "name": "A1 Plus",
+    "device": "GIONEE_SWW1617",
+    "model": "A1 Plus"
+  },
+  {
+    "brand": "Gionee",
+    "name": "A1 lite",
+    "device": "GIONEE_SWW1618",
+    "model": "A1 lite"
+  },
+  {
+    "brand": "Gionee",
+    "name": "E8",
+    "device": "GiONEE_GN9008",
+    "model": "E8"
+  },
+  {
+    "brand": "Gionee",
+    "name": "E8",
+    "device": "GiONEE_GN9008",
+    "model": "GN9008"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F10",
+    "device": "F10",
+    "model": "GIONEE F10"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F10 Plus",
+    "device": "F10_Plus",
+    "model": "GIONEE F10 Plus"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F100",
+    "device": "GIONEE_GBL7358",
+    "model": "F100"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F100A",
+    "device": "GIONEE_GBL7358",
+    "model": "F100A"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F100B",
+    "device": "GIONEE_GBL7370",
+    "model": "F100B"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F100L",
+    "device": "GIONEE_GBL7370",
+    "model": "F100L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F100S",
+    "device": "GIONEE_GBL7370",
+    "model": "F100S"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F103",
+    "device": "GiONEE_GBL7319",
+    "model": "F103"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F103 Pro",
+    "device": "GIONEE_GBL7360",
+    "model": "F103 Pro"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F103L",
+    "device": "GiONEE_GBL7319",
+    "model": "F103L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F103S",
+    "device": "GiONEE_F103S",
+    "model": "F103S"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F105",
+    "device": "GiONEE_GBL7335",
+    "model": "F105"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F105L",
+    "device": "GiONEE_GBL7335",
+    "model": "F105L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F106",
+    "device": "GIONEE_SWG1613",
+    "model": "F106"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F106L",
+    "device": "GIONEE_SW17G03",
+    "model": "F106L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F109L",
+    "device": "GIONEE_SW17G09",
+    "model": "GIONEE F109L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F109N",
+    "device": "GIONEE_SW17G09",
+    "model": "GIONEE F109N"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F11VE",
+    "device": "F11VE",
+    "model": "GIONEE F11VE"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F205",
+    "device": "GIONEE_SW17G18",
+    "model": "GIONEE F205"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F301",
+    "device": "F301",
+    "model": "F301"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F303",
+    "device": "F303",
+    "model": "F303"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F5",
+    "device": "GIONEE_SWG1608",
+    "model": "F5"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F5L",
+    "device": "GIONEE_SWG1608",
+    "model": "F5L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F6",
+    "device": "GIONEE_SW17G15",
+    "model": "GIONEE F6"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F6L",
+    "device": "GIONEE_SW17G15",
+    "model": "GIONEE F6L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F8_Neo",
+    "device": "F8_Neo",
+    "model": "GIONEE F8 Neo"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F9",
+    "device": "F9",
+    "model": "GIONEE F9"
+  },
+  {
+    "brand": "Gionee",
+    "name": "F9 Plus",
+    "device": "F9_Plus",
+    "model": "GIONEE F9 Plus"
+  },
+  {
+    "brand": "Gionee",
+    "name": "ForwardZero",
+    "device": "V6L",
+    "model": "V6L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE F109",
+    "device": "GIONEE_SW17G09",
+    "model": "GIONEE F109"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE F109L",
+    "device": "GIONEE_SW17G09",
+    "model": "GIONEE F109L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE F109N",
+    "device": "GIONEE_SW17G09",
+    "model": "GIONEE F109N"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE F11",
+    "device": "GIONEE_F11",
+    "model": "GIONEE F11"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE F205L",
+    "device": "GIONEE_SW17G18",
+    "model": "GIONEE F205L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE GN5007",
+    "device": "GIONEE_BJ17G16",
+    "model": "GIONEE GN5007"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE GN5007L",
+    "device": "GIONEE_BJ17G16",
+    "model": "GIONEE GN5007L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE H601",
+    "device": "GIONEE_H601",
+    "model": "GIONEE S12"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE M7L",
+    "device": "GIONEE_SW17G07",
+    "model": "GIONEE M7L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE MAX",
+    "device": "GIONEE_MAX",
+    "model": "GIONEE MAX"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE MAX Pro",
+    "device": "GIONEE_MAX_Pro",
+    "model": "GIONEE_MAX Pro"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE P15 Pro",
+    "device": "P15_Pro",
+    "model": "P15 Pro"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE X1",
+    "device": "GIONEE_SWW1631",
+    "model": "GIONEE X1"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE_H603",
+    "device": "GIONEE_H603",
+    "model": "GIONEE M12"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE_H603B",
+    "device": "GIONEE_H603",
+    "model": "GIONEE M12"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE_M100",
+    "device": "GIONEE_M100",
+    "model": "M100"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE_M11",
+    "device": "GIONEE_M11",
+    "model": "M11"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GIONEE_P12",
+    "device": "GIONEE_P12",
+    "model": "GIONEE P12"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN152",
+    "device": "GiONEE_CBL7320",
+    "model": "GN152"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN3001",
+    "device": "GiONEE_GBL7523",
+    "model": "GN3001"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN3001L",
+    "device": "GiONEE_GBL7523",
+    "model": "GN3001L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN3002",
+    "device": "GIONEE_GBL7356",
+    "model": "GN3002"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN3002L",
+    "device": "GIONEE_GBL7356L",
+    "model": "GN3002L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN3003",
+    "device": "GIONEE_GBL7359",
+    "model": "GN3003"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN3003L",
+    "device": "GIONEE_GBL7359L",
+    "model": "GN3003L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN5001",
+    "device": "GiONEE_BBL7332",
+    "model": "GN5001"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN5001L",
+    "device": "GiONEE_BBL7332",
+    "model": "GN5001L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN5001S",
+    "device": "GiONEE_BBL7332",
+    "model": "GN5001S"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN5002",
+    "device": "GiONEE_GBL7333",
+    "model": "GN5002"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN5003",
+    "device": "GiONEE_BBL7337A",
+    "model": "GN5003"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN5005",
+    "device": "GIONEE_G1605A",
+    "model": "GN5005"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN5005",
+    "device": "GIONEE_G1605A",
+    "model": "GN5005L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN8001",
+    "device": "GiONEE_BBL7505",
+    "model": "GN8001"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN8001L",
+    "device": "GiONEE_BBL7505",
+    "model": "GN8001L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN8003L",
+    "device": "GiONEE_BBL7515A",
+    "model": "GN8003L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN9000",
+    "device": "S5_5",
+    "model": "GN9000"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN9006",
+    "device": "GN9006",
+    "model": "GN9006"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN9006",
+    "device": "GN9006",
+    "model": "GiONEE S7"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN9007",
+    "device": "GiONEE_CBL7503",
+    "model": "GN9007"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN9010L",
+    "device": "GiONEE_CBL7513",
+    "model": "GN9010L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "GN9012",
+    "device": "GIONEE_GBL7529",
+    "model": "GN9012"
+  },
+  {
+    "brand": "Gionee",
+    "name": "Gtel_X5pro",
+    "device": "Gtel_X5pro",
+    "model": "Gtel_X5pro"
+  },
+  {
+    "brand": "Gionee",
+    "name": "India",
+    "device": "F205_Pro",
+    "model": "GIONEE F205 Pro"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M2",
+    "device": "M2",
+    "model": "M2"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M2017",
+    "device": "GIONEE_GBL8918",
+    "model": "M2017"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M2mini",
+    "device": "GiONEE_WBW5612",
+    "model": "M2mini"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M3",
+    "device": "GiONEE_M3",
+    "model": "M3"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M3",
+    "device": "M3",
+    "model": "M3"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M3S",
+    "device": "GiONEE_M3S",
+    "model": "M3S"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M3mini",
+    "device": "GiONEE_WBL7315",
+    "model": "M3mini"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M4",
+    "device": "GiONEE_M3",
+    "model": "M4"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M5",
+    "device": "M5",
+    "model": "M5"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M5 Lite",
+    "device": "GiONEE_BBL7332",
+    "model": "M5_lite"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M5 Plus",
+    "device": "GiONEE_BBL7505",
+    "model": "M5 Plus"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M5 mini",
+    "device": "GiONEE_WBW5616",
+    "model": "M5 mini"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M5L",
+    "device": "M5",
+    "model": "M5L"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M6",
+    "device": "GiONEE_BBL7515A",
+    "model": "GN8003"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M6",
+    "device": "GiONEE_BBL7515A",
+    "model": "M6"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M6 Lite",
+    "device": "GIONEE_WBL7361",
+    "model": "M6 lite"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M6 Plus",
+    "device": "GIONEE_BBL7516A",
+    "model": "GN8002"
+  },
+  {
+    "brand": "Gionee",
+    "name": "M6 Plus",
+    "device": "GIONEE_BBL7516A01",
+    "model": "GN8002S"
+  },
+  {
+    "brand": "Infinix",
+    "name": "32X1",
+    "device": "ikebukuro",
+    "model": "AI PONT"
+  },
+  {
+    "brand": "Infinix",
+    "name": "55X1",
+    "device": "samseong",
+    "model": "AI PONT"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 10",
+    "device": "Infinix-X682B",
+    "model": "Infinix X682B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 10",
+    "device": "Infinix-X682C",
+    "model": "Infinix X682C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 10 Lite",
+    "device": "Infinix-X657B",
+    "model": "Infinix X657B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 10 Play",
+    "device": "Infinix-X688B",
+    "model": "Infinix X688B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 10 Play",
+    "device": "Infinix-X688C",
+    "model": "Infinix X688C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 10 lite",
+    "device": "Infinix-X657B",
+    "model": "Infinix X657B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 10i",
+    "device": "Infinix-X658B",
+    "model": "Infinix X658B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 10i",
+    "device": "Infinix-X659",
+    "model": "Infinix X659"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 10i",
+    "device": "Infinix-X659B",
+    "model": "Infinix X659B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 2",
+    "device": "Infinix_X510",
+    "model": "Infinix X510"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 3",
+    "device": "INFINIX-X554",
+    "model": "Infinix HOT 3 Pro"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 3",
+    "device": "INFINIX-X554",
+    "model": "Infinix-X554"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 3 LTE",
+    "device": "INFINIX-X553",
+    "model": "Infinix HOT 3 LTE"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 3 LTE",
+    "device": "INFINIX-X553-A1",
+    "model": "Infinix HOT 3 LTE"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 4",
+    "device": "Infinix-X5511",
+    "model": "Infinix HOT 4"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 4",
+    "device": "Infinix-X5511",
+    "model": "Infinix HOT4 LTE"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 4",
+    "device": "X557",
+    "model": "Infinix HOT 4"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 4",
+    "device": "X557",
+    "model": "Infinix X557"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 4",
+    "device": "X557-Lite",
+    "model": "Infinix HOT 4"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 4 Lite",
+    "device": "X557-Lite",
+    "model": "Infinix HOT 4"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 4 Lite",
+    "device": "X557-Lite",
+    "model": "Infinix HOT 4 Lite"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 4 PRO",
+    "device": "X556",
+    "model": "Infinix HOT 4 Pro"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 4 PRO",
+    "device": "X556",
+    "model": "Infinix_X556_LTE"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 4 Pro",
+    "device": "Infinix-X5511-13M",
+    "model": "Infinix HOT 4 Pro"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 4 Pro",
+    "device": "X556",
+    "model": "Infinix HOT 4 Pro"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 6",
+    "device": "Infinix-X606",
+    "model": "Infinix X606"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 6",
+    "device": "Infinix-X606B",
+    "model": "Infinix X606B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 6",
+    "device": "Infinix-X606C",
+    "model": "Infinix X606C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 6",
+    "device": "Infinix-X606D",
+    "model": "Infinix X606D"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 6 Pro",
+    "device": "Infinix-X608",
+    "model": "Infinix X608"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 7",
+    "device": "Infinix-X624",
+    "model": "Infinix X624"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 7",
+    "device": "Infinix-X624B",
+    "model": "Infinix X624B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 7 PRO",
+    "device": "Infinix-X625",
+    "model": "Infinix X625B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 7 PRO",
+    "device": "Infinix-X625D",
+    "model": "Infinix X625D"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 8",
+    "device": "Infinix-X650B",
+    "model": "Infinix X650B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 8",
+    "device": "Infinix-X650C",
+    "model": "Infinix X650C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 8",
+    "device": "Infinix-X650D",
+    "model": "Infinix X650D"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT 8 Lite",
+    "device": "Infinix-X650",
+    "model": "Infinix X650"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT NOTE",
+    "device": "Infinix-X551",
+    "model": "Infinix-X551"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT S3",
+    "device": "Infinix-X573",
+    "model": "Infinix X573"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT S3",
+    "device": "Infinix-X573",
+    "model": "Infinix X573S"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT S3",
+    "device": "Infinix-X573B",
+    "model": "Infinix X573B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT S3X",
+    "device": "Infinix-X622",
+    "model": "Infinix X622"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT5",
+    "device": "Infinix-X559C",
+    "model": "Infinix X559C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT5",
+    "device": "Infinix-X559C",
+    "model": "Infinix X559F"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT5 Lite",
+    "device": "Infinix-X559",
+    "model": "Infinix X559"
+  },
+  {
+    "brand": "Infinix",
+    "name": "HOT5 Lite",
+    "device": "X557",
+    "model": "Infinix HOT 4"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Hot 4 Pro",
+    "device": "Infinix-X5511-13M",
+    "model": "Infinix HOT 4 Pro"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 10 Lite",
+    "device": "Infinix-X657B",
+    "model": "Infinix X657B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 10S",
+    "device": "Infinix-X689",
+    "model": "Infinix X689"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 10S",
+    "device": "Infinix-X689B",
+    "model": "Infinix X689B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 10S NFC",
+    "device": "Infinix-X689D",
+    "model": "Infinix X689D"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 10T",
+    "device": "Infinix-X689C",
+    "model": "Infinix X689C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 6X",
+    "device": "Infinix-X623",
+    "model": "Infinix X623"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 6X",
+    "device": "Infinix-X623",
+    "model": "Infinix X623B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 7",
+    "device": "Infinix-X625C",
+    "model": "Infinix X625C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 7 pro",
+    "device": "Infinix-X625C",
+    "model": "Infinix X625C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 9",
+    "device": "Infinix-X655",
+    "model": "Infinix X655"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 9",
+    "device": "Infinix-X655C",
+    "model": "Infinix X655C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 9",
+    "device": "Infinix-X655D",
+    "model": "Infinix X655D"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 9 Play",
+    "device": "Infinix-X680",
+    "model": "Infinix X680"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 9 Play",
+    "device": "Infinix-X680B",
+    "model": "Infinix X680B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 9 Play",
+    "device": "Infinix-X680C",
+    "model": "Infinix X680C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 9 Play",
+    "device": "Infinix-X680E",
+    "model": "Infinix X680E"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 9 Play",
+    "device": "Infinix-X680F",
+    "model": "Infinix X680F"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix HOT 9 Pro",
+    "device": "Infinix-X655F",
+    "model": "Infinix X655F"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix NOTE 10",
+    "device": "Infinix-X693",
+    "model": "Infinix X693"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix NOTE 5",
+    "device": "Infinix-X604_sprout",
+    "model": "Infinix X604"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix NOTE 5",
+    "device": "Infinix-X604_sprout",
+    "model": "Infinix X604B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix NOTE 5 Stylus",
+    "device": "Infinix-X605_sprout",
+    "model": "Infinix X605"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix NOTE 7 Lite",
+    "device": "Infinix-X656",
+    "model": "Infinix X656"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix Note 5",
+    "device": "Infinix-X604_sprout",
+    "model": "Infinix X604"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix Note 5",
+    "device": "Infinix-X604_sprout",
+    "model": "Infinix X604B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix SMART 4",
+    "device": "Infinix-X680",
+    "model": "Infinix X680"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix SMART 4 Plus",
+    "device": "Infinix-X680D",
+    "model": "Infinix X680D"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix SMART 5",
+    "device": "Infinix-X657",
+    "model": "Infinix X657"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix X5010",
+    "device": "Infinix-X5010",
+    "model": "Infinix X5010"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix X510",
+    "device": "Infinix_X510_sprout",
+    "model": "Infinix X510"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix X559",
+    "device": "Infinix-X559",
+    "model": "Infinix X559"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix X571",
+    "device": "Infinix-X571",
+    "model": "Infinix X571"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix X572",
+    "device": "Infinix-X572",
+    "model": "Infinix X572"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix ZERO 8i",
+    "device": "Infinix-X687B",
+    "model": "Infinix X687B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Infinix ZERO8",
+    "device": "Infinix-X687",
+    "model": "Infinix X687"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 10 Pro",
+    "device": "Infinix-X695",
+    "model": "Infinix X695"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 10 Pro",
+    "device": "Infinix-X695C",
+    "model": "Infinix X695C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 3",
+    "device": "X601",
+    "model": "Infinix NOTE 3"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 3 Pro",
+    "device": "X601-3G",
+    "model": "Infinix NOTE 3 Pro"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 3 Pro",
+    "device": "X601-LTE",
+    "model": "Infinix NOTE 3 Pro"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 3 Pro",
+    "device": "X601-LTE",
+    "model": "Infinix_X601_LTE"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 4",
+    "device": "Infinix-X572",
+    "model": "Infinix X572"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 4",
+    "device": "Infinix-X572",
+    "model": "Infinix X572-LTE"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 4 Pro",
+    "device": "Infinix-X571",
+    "model": "Infinix X571"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 4 Pro",
+    "device": "Infinix-X571",
+    "model": "Infinix X571-LTE"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 7",
+    "device": "Infinix-X690",
+    "model": "Infinix X690"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 7",
+    "device": "Infinix-X690B",
+    "model": "Infinix X690B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 7",
+    "device": "Infinix-X690C",
+    "model": "Infinix X690C"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 8",
+    "device": "Infinix-X692",
+    "model": "Infinix X692"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 8i",
+    "device": "Infinix-X683",
+    "model": "Infinix X683"
+  },
+  {
+    "brand": "Infinix",
+    "name": "NOTE 8i",
+    "device": "Infinix-X683B",
+    "model": "Infinix X683B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "Note 6",
+    "device": "Infinix-X610",
+    "model": "Infinix X610B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "RACE Blot2",
+    "device": "Infinix_X454",
+    "model": "Infinix X454"
+  },
+  {
+    "brand": "Infinix",
+    "name": "RACE Bolt 3",
+    "device": "X455",
+    "model": "Infinix X455"
+  },
+  {
+    "brand": "Infinix",
+    "name": "S2",
+    "device": "Infinix-X522",
+    "model": "Infinix S2"
+  },
+  {
+    "brand": "Infinix",
+    "name": "S2",
+    "device": "Infinix-X522",
+    "model": "Infinix S2 Pro"
+  },
+  {
+    "brand": "Infinix",
+    "name": "S4",
+    "device": "Infinix-X626",
+    "model": "Infinix X626"
+  },
+  {
+    "brand": "Infinix",
+    "name": "S4",
+    "device": "Infinix-X626B",
+    "model": "Infinix X626B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "S4",
+    "device": "Infinix-X626B-LTE",
+    "model": "Infinix X626B LTE"
+  },
+  {
+    "brand": "Infinix",
+    "name": "S5",
+    "device": "Infinix-X652",
+    "model": "Infinix X652"
+  },
+  {
+    "brand": "Infinix",
+    "name": "S5",
+    "device": "Infinix-X652A",
+    "model": "Infinix X652A"
+  },
+  {
+    "brand": "Infinix",
+    "name": "S5 Lite",
+    "device": "Infinix-X652B",
+    "model": "Infinix X652B"
+  },
+  {
+    "brand": "Infinix",
+    "name": "S5 Lite",
+    "device": "Infinix-X652C",
+    "model": "Infinix X652C"
+  },
+  {
+    "brand": "Sony",
+    "name": "",
+    "device": "C5503",
+    "model": "C5503"
+  },
+  {
+    "brand": "Sony",
+    "name": "",
+    "device": "C6616",
+    "model": "C6616"
+  },
+  {
+    "brand": "Sony",
+    "name": "",
+    "device": "SGP312",
+    "model": "SGP312"
+  },
+  {
+    "brand": "Sony",
+    "name": "",
+    "device": "ST21i",
+    "model": "ST21i"
+  },
+  {
+    "brand": "Sony",
+    "name": "",
+    "device": "ST23i",
+    "model": "ST23i"
+  },
+  {
+    "brand": "Sony",
+    "name": "",
+    "device": "ST26i",
+    "model": "ST26i"
+  },
+  {
+    "brand": "Sony",
+    "name": "",
+    "device": "nbx02",
+    "model": "Sony Tablet P"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA 2015",
+    "device": "SVP-DTV15",
+    "model": "BRAVIA 2015"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA 2K GB ATV3",
+    "device": "BRAVIA_ATV3_2K",
+    "model": "BRAVIA 2K GB ATV3"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA 4K 2015",
+    "device": "SVP-DTV15",
+    "model": "BRAVIA 2015"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA 4K 2015",
+    "device": "SVP-DTV15",
+    "model": "BRAVIA 4K 2015"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA 4K GB",
+    "device": "BRAVIA_ATV2",
+    "model": "BRAVIA 4K GB"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA 4K GB ATV3",
+    "device": "BRAVIA_ATV3_4K",
+    "model": "BRAVIA 4K GB ATV3"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA 4K UR1",
+    "device": "BRAVIA_UR1_4K",
+    "model": "BRAVIA 4K UR1"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA 4K UR2",
+    "device": "BRAVIA_UR2_4K",
+    "model": "BRAVIA 4K UR2"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA 4K UR3",
+    "device": "BRAVIA_UR3",
+    "model": "BRAVIA 4K UR3"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA Smart Stick",
+    "device": "NSZGU1",
+    "model": "NSZ-GU1"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA TL",
+    "device": "OD0M_EA_T32",
+    "model": "BRAVIA TL"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA VH1",
+    "device": "BRAVIA_VH1",
+    "model": "BRAVIA VH1"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA VH2",
+    "device": "BRAVIA_VH2",
+    "model": "BRAVIA 4K VH2"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA_VU",
+    "device": "BRAVIA_VU1",
+    "model": "BRAVIA VU1"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA_VU2",
+    "device": "BRAVIA_VU1_2K",
+    "model": "BRAVIA VU2"
+  },
+  {
+    "brand": "Sony",
+    "name": "BRAVIA_VU2",
+    "device": "BRAVIA_VU1_4K",
+    "model": "BRAVIA VU2"
+  },
+  {
+    "brand": "Sony",
+    "name": "Ericsson Live with Walkman",
+    "device": "WT19a",
+    "model": "WT19a"
+  },
+  {
+    "brand": "Sony",
+    "name": "Ericsson Live with Walkman",
+    "device": "WT19i",
+    "model": "WT19i"
+  },
+  {
+    "brand": "Sony",
+    "name": "Internet TV",
+    "device": "asura",
+    "model": "Internet TV"
+  },
+  {
+    "brand": "Sony",
+    "name": "Internet TV",
+    "device": "eagle",
+    "model": "Internet TV Box"
+  },
+  {
+    "brand": "Sony",
+    "name": "NSZGS7",
+    "device": "NSZGS7",
+    "model": "NSZ-GS7/GX70"
+  },
+  {
+    "brand": "Sony",
+    "name": "NW-F800",
+    "device": "icx1227",
+    "model": "WALKMAN"
+  },
+  {
+    "brand": "Sony",
+    "name": "NW-F880 Series",
+    "device": "icx1237",
+    "model": "WALKMAN"
+  },
+  {
+    "brand": "Sony",
+    "name": "NW-Z1000",
+    "device": "icx1216",
+    "model": "NW-Z1000Series"
+  },
+  {
+    "brand": "Sony",
+    "name": "NW-ZX1",
+    "device": "icx1240",
+    "model": "WALKMAN"
+  },
+  {
+    "brand": "Sony",
+    "name": "NW-ZX2",
+    "device": "icx1265",
+    "model": "WALKMAN"
+  },
+  {
+    "brand": "Sony",
+    "name": "NWZ-Z1000",
+    "device": "icx1216",
+    "model": "NWZ-Z1000Series"
+  },
+  {
+    "brand": "Sony",
+    "name": "NWZ-ZX1",
+    "device": "icx1240",
+    "model": "WALKMAN"
+  },
+  {
+    "brand": "Sony",
+    "name": "SmartWatch 3",
+    "device": "tetra",
+    "model": "SmartWatch 3"
+  },
+  {
+    "brand": "Sony",
+    "name": "Smartphone Z Ultra Google Play edition",
+    "device": "C6806",
+    "model": "C6806"
+  },
+  {
+    "brand": "Sony",
+    "name": "Smartphone Z Ultra Google Play edition",
+    "device": "C6806",
+    "model": "C6806_GPe"
+  },
+  {
+    "brand": "Sony",
+    "name": "Tablet P",
+    "device": "nbx02",
+    "model": "Sony Tablet P"
+  },
+  {
+    "brand": "Sony",
+    "name": "Tablet S",
+    "device": "nbx03",
+    "model": "Sony Tablet S"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia  E1 dual",
+    "device": "D2114",
+    "model": "D2114"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia  M",
+    "device": "C1905",
+    "model": "C1905"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1",
+    "device": "802SO",
+    "model": "802SO"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1",
+    "device": "J8110",
+    "model": "J8110"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1",
+    "device": "J8170",
+    "model": "J8170"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1",
+    "device": "J9110",
+    "model": "J9110"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1",
+    "device": "J9180",
+    "model": "J9180"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1",
+    "device": "SO-03L",
+    "model": "SO-03L"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1",
+    "device": "SOV40",
+    "model": "SOV40"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 II",
+    "device": "SO-51A",
+    "model": "SO-51A"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 II",
+    "device": "SOG01",
+    "model": "SOG01"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 II",
+    "device": "XQ-AT42",
+    "model": "XQ-AT42"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 II",
+    "device": "XQ-AT51",
+    "model": "XQ-AT51"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 II",
+    "device": "XQ-AT52",
+    "model": "XQ-AT52"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 II",
+    "device": "XQ-AT72",
+    "model": "XQ-AT72"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 III",
+    "device": "SO-51B",
+    "model": "SO-51B"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 1 Professional Edition",
+    "device": "J9150",
+    "model": "J9150"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10",
+    "device": "I3113",
+    "model": "I3113"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10",
+    "device": "I3123",
+    "model": "I3123"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10",
+    "device": "I4113",
+    "model": "I4113"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10",
+    "device": "I4193",
+    "model": "I4193"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 II",
+    "device": "A001SO",
+    "model": "A001SO"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 II",
+    "device": "SO-41A",
+    "model": "SO-41A"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 II",
+    "device": "SOV43",
+    "model": "SOV43"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 II",
+    "device": "XQ-AU42",
+    "model": "XQ-AU42"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 II",
+    "device": "XQ-AU51",
+    "model": "XQ-AU51"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 II",
+    "device": "XQ-AU52",
+    "model": "XQ-AU52"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 III",
+    "device": "SO-52B",
+    "model": "SO-52B"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 Plus",
+    "device": "I3213",
+    "model": "I3213"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 Plus",
+    "device": "I3223",
+    "model": "I3223"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 Plus",
+    "device": "I4213",
+    "model": "I4213"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 10 Plus",
+    "device": "I4293",
+    "model": "I4293"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5",
+    "device": "901SO",
+    "model": "901SO"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5",
+    "device": "J8210",
+    "model": "J8210"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5",
+    "device": "J8270",
+    "model": "J8270"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5",
+    "device": "J9210",
+    "model": "J9210"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5",
+    "device": "J9260",
+    "model": "J9260"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5",
+    "device": "SO-01M",
+    "model": "SO-01M"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5",
+    "device": "SOV41",
+    "model": "SOV41"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5 II",
+    "device": "A002SO",
+    "model": "A002SO"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5 II",
+    "device": "SO-52A",
+    "model": "SO-52A"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5 II",
+    "device": "SOG02",
+    "model": "SOG02"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5 II",
+    "device": "XQ-AS42",
+    "model": "XQ-AS42"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5 II",
+    "device": "XQ-AS52",
+    "model": "XQ-AS52"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5 II",
+    "device": "XQ-AS62",
+    "model": "XQ-AS62"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 5 II",
+    "device": "XQ-AS72",
+    "model": "XQ-AS72"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 8",
+    "device": "902SO",
+    "model": "902SO"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 8",
+    "device": "SOV42",
+    "model": "SOV42"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 8",
+    "device": "SOV42-u",
+    "model": "SOV42-u"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia 8 Lite",
+    "device": "J3273",
+    "model": "J3273"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia A",
+    "device": "SO-04E",
+    "model": "SO-04E"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia A2",
+    "device": "SO-04F",
+    "model": "SO-04F"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia A4",
+    "device": "SO-04G",
+    "model": "SO-04G"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia Ace",
+    "device": "J3173",
+    "model": "J3173"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia Ace",
+    "device": "SO-02L",
+    "model": "SO-02L"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia Ace II",
+    "device": "SO-41B",
+    "model": "SO-41B"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia C",
+    "device": "C2304",
+    "model": "C2304"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia C",
+    "device": "C2305",
+    "model": "C2305"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia C3",
+    "device": "D2533",
+    "model": "D2533"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia C3 Dual",
+    "device": "D2502",
+    "model": "D2502"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia C5 Ultra",
+    "device": "E5506",
+    "model": "E5506"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia C5 Ultra",
+    "device": "E5553",
+    "model": "E5553"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia C5 Ultra Dual",
+    "device": "E5533",
+    "model": "E5533"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia C5 Ultra Dual",
+    "device": "E5563",
+    "model": "E5563"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia E",
+    "device": "C1504",
+    "model": "C1504"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia E",
+    "device": "C1505",
+    "model": "C1505"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia E dual",
+    "device": "C1604",
+    "model": "C1604"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia E dual",
+    "device": "C1605",
+    "model": "C1605"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia E1",
+    "device": "D2004",
+    "model": "D2004"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia E1",
+    "device": "D2005",
+    "model": "D2005"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia E1",
+    "device": "D2114",
+    "model": "D2114"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia E1 Dual",
+    "device": "D2104",
+    "model": "D2104"
+  },
+  {
+    "brand": "Sony",
+    "name": "Xperia E1 Dual",
+    "device": "D2105",
+    "model": "D2105"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Android TV",
+    "device": "R1",
+    "model": "ATV R1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Android TV",
+    "device": "R2",
+    "model": "ATV R2"
+  },
+  {
+    "brand": "Nokia",
+    "name": "DVN2KA01",
+    "device": "DV6068H_Nokia",
+    "model": "DVN2KA01"
+  },
+  {
+    "brand": "Nokia",
+    "name": "N1",
+    "device": "Nokia_N1",
+    "model": "N1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 1",
+    "device": "FRT",
+    "model": "Nokia 1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 1 Plus",
+    "device": "ANT",
+    "model": "Nokia 1 Plus"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 1.3",
+    "device": "DRX",
+    "model": "Nokia 1.3"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 1.4",
+    "device": "CBL",
+    "model": "Cable"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 1.4",
+    "device": "CBL",
+    "model": "Nokia 1.4"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 2",
+    "device": "E1M",
+    "model": "Nokia 2"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 2 V",
+    "device": "EVW",
+    "model": "Nokia 2 V"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 2 V Tella",
+    "device": "ARV_VZW",
+    "model": "Nokia 2 V Tella"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 2.1",
+    "device": "E2M",
+    "model": "Nokia 2.1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 2.2",
+    "device": "WSP_sprout",
+    "model": "Nokia 2.2"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 2.3",
+    "device": "IRM_sprout",
+    "model": "Nokia 2.3"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 2.4",
+    "device": "WVR",
+    "model": "Nokia 2.4"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 2.4",
+    "device": "WVR_sprout",
+    "model": "Nokia 2.4"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3",
+    "device": "NE1",
+    "model": "TA-1020"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3",
+    "device": "NE1",
+    "model": "TA-1028"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3",
+    "device": "NE1",
+    "model": "TA-1032"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3",
+    "device": "NE1",
+    "model": "TA-1038"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3 V",
+    "device": "DPL_VZW",
+    "model": "Nokia 3 V"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3.1",
+    "device": "ES2N_sprout",
+    "model": "Nokia 3.1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3.1",
+    "device": "ES2_sprout",
+    "model": "Nokia 3.1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3.1 A",
+    "device": "EAG",
+    "model": "Nokia 3.1 A"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3.1 C",
+    "device": "EAG",
+    "model": "Nokia 3.1 C"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3.1 Plus",
+    "device": "RHD",
+    "model": "Nokia 3.1 Plus"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3.1 Plus",
+    "device": "ROO",
+    "model": "Nokia 3.1 Plus"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3.1 Plus",
+    "device": "ROON_sprout",
+    "model": "Nokia 3.1 Plus"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3.1 Plus",
+    "device": "ROO_sprout",
+    "model": "Nokia 3.1 Plus"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3.2",
+    "device": "DPL_sprout",
+    "model": "Nokia 3.2"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3.4",
+    "device": "DRS",
+    "model": "Nokia 3.4"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3.4",
+    "device": "DRSA_sprout",
+    "model": "Nokia 3.4"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 3.4",
+    "device": "DRS_sprout",
+    "model": "Nokia 3.4"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 4.2",
+    "device": "PAN_sprout",
+    "model": "Nokia 4.2"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 4.2",
+    "device": "Panther_00EEE",
+    "model": "Nokia 4.2"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 5",
+    "device": "ND1",
+    "model": "TA-1024"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 5",
+    "device": "ND1",
+    "model": "TA-1027"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 5",
+    "device": "ND1",
+    "model": "TA-1044"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 5",
+    "device": "ND1",
+    "model": "TA-1053"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 5.1",
+    "device": "CO2N_sprout",
+    "model": "Nokia 5.1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 5.1",
+    "device": "CO2_sprout",
+    "model": "Nokia 5.1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 5.1 Plus",
+    "device": "PDA_sprout",
+    "model": "Nokia 5.1 Plus"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 5.3",
+    "device": "CAP",
+    "model": "Nokia 5.3"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 5.3",
+    "device": "CAP_sprout",
+    "model": "Nokia 5.3"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 5.4",
+    "device": "DRD",
+    "model": "Nokia 5.4"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 5.4",
+    "device": "DRDA_sprout",
+    "model": "Nokia 5.4"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 5.4",
+    "device": "DRD_sprout",
+    "model": "Nokia 5.4"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 6",
+    "device": "D1C",
+    "model": "TA-1000"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 6",
+    "device": "D1C",
+    "model": "TA-1003"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 6",
+    "device": "PL2",
+    "model": "TA-1054"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 6",
+    "device": "PLE",
+    "model": "TA-1021"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 6",
+    "device": "PLE",
+    "model": "TA-1025"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 6",
+    "device": "PLE",
+    "model": "TA-1033"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 6",
+    "device": "PLE",
+    "model": "TA-1039"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 6.1",
+    "device": "PL2",
+    "model": "Nokia 6.1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 6.1",
+    "device": "PL2_sprout",
+    "model": "Nokia 6.1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 6.1 Plus",
+    "device": "DRG_sprout",
+    "model": "Nokia 6.1 Plus"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 6.2",
+    "device": "SLDA_sprout",
+    "model": "Nokia 6.2"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 6.2",
+    "device": "SLD_sprout",
+    "model": "Nokia 6.2"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 7",
+    "device": "C1N",
+    "model": "TA-1041"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 7 plus",
+    "device": "B2N",
+    "model": "Nokia 7 plus"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 7 plus",
+    "device": "B2N_sprout",
+    "model": "Nokia 7 plus"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 7.1",
+    "device": "CTL_sprout",
+    "model": "Nokia 7.1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 7.2",
+    "device": "DDVA_sprout",
+    "model": "Nokia 7.2"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 7.2",
+    "device": "DDV_sprout",
+    "model": "Nokia 7.2"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 8",
+    "device": "NB1",
+    "model": "TA-1004"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 8",
+    "device": "NB1",
+    "model": "TA-1012"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 8",
+    "device": "NB1",
+    "model": "TA-1052"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 8 Sirocco",
+    "device": "A1N",
+    "model": "Nokia 8 Sirocco"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 8 Sirocco",
+    "device": "A1N_sprout",
+    "model": "Nokia 8 Sirocco"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 8 V 5G UW",
+    "device": "RAV_VZW",
+    "model": "Nokia 8 V 5G UW"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 8.1",
+    "device": "PNXN",
+    "model": "Nokia 8.1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 8.1",
+    "device": "PNX_sprout",
+    "model": "Nokia 8.1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 8.3 5G",
+    "device": "BGT",
+    "model": "Nokia 8.3 5G"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 8.3 5G",
+    "device": "BGT_sprout",
+    "model": "Nokia 8.3 5G"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 9",
+    "device": "AOP",
+    "model": "Nokia 9"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia 9",
+    "device": "AOP_sprout",
+    "model": "Nokia 9"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C1",
+    "device": "RKU",
+    "model": "Nokia C1"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C1 Plus",
+    "device": "YDU",
+    "model": "Nokia C1 Plus"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C2",
+    "device": "NBL",
+    "model": "Nebula"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C2",
+    "device": "NBL",
+    "model": "Nokia C2"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C2 Tennen",
+    "device": "ARV_CUS",
+    "model": "Nokia C2 Tennen"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C3",
+    "device": "GMR",
+    "model": "Nokia C3"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia C5 Endi",
+    "device": "PMC_CUS",
+    "model": "Nokia C5 Endi"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia G10",
+    "device": "ROGA",
+    "model": "Nokia G10"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia G10",
+    "device": "ROGA_sprout",
+    "model": "Nokia G10"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia G20",
+    "device": "RNN",
+    "model": "Nokia G20"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia G20",
+    "device": "RNNA_sprout",
+    "model": "Nokia G20"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia G20",
+    "device": "RNN_sprout",
+    "model": "Nokia G20"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia Steaming Box 8000",
+    "device": "HND",
+    "model": "Nokia Streaming Box 8000"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia X10",
+    "device": "SCW",
+    "model": "Nokia X10"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia X10",
+    "device": "SCW_sprout",
+    "model": "Nokia X10"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia X20",
+    "device": "QKS",
+    "model": "Nokia X20"
+  },
+  {
+    "brand": "Nokia",
+    "name": "Nokia X20",
+    "device": "QKS_sprout",
+    "model": "Nokia X20"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Moto E3 Power",
+    "device": "taido_row",
+    "model": "XT1706"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Moto TAB",
+    "device": "X704A",
+    "model": "TB-X704A"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Motorola M",
+    "device": "XT1663",
+    "model": "XT1663"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Motorola Moto M",
+    "device": "kungfu_m",
+    "model": "XT1662"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "N300",
+    "device": "Lindos2",
+    "model": "Lenovo N300"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "N308",
+    "device": "SmartAIO",
+    "model": "Lenovo N308"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "NEC  PC-TE507FAW",
+    "device": "TE507FAW",
+    "model": "PC-TE507FAW"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "NEC PC-TS508FAM",
+    "device": "PC-TS508FAM",
+    "model": "NEC PC-TS508FAM"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "NEC PC-TS508FAM",
+    "device": "PC-TS508FAM",
+    "model": "PC-TS508FAM"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "P1",
+    "device": "P1a42",
+    "model": "Lenovo P1a41"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "P1",
+    "device": "P1a42",
+    "model": "Lenovo P1a42"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "P1",
+    "device": "passion",
+    "model": "Lenovo P1c72"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "P1",
+    "device": "passionc5",
+    "model": "Lenovo P1c58"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "P2",
+    "device": "P2a42",
+    "model": "Lenovo P2a42"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "P2",
+    "device": "kuntao",
+    "model": "Lenovo P2c72"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "P70",
+    "device": "P70-A",
+    "model": "Lenovo P70-A"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "P70",
+    "device": "P70-t",
+    "model": "Lenovo P70-t"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "P780",
+    "device": "P780",
+    "model": "Lenovo P780"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "P780",
+    "device": "P780_ROW",
+    "model": "Lenovo P780"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "P780",
+    "device": "P780_ROW",
+    "model": "Lenovo P780_ROW"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "P90",
+    "device": "P90",
+    "model": "Lenovo P90"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "PB1-750M/Lenovo PHAB",
+    "device": "PB1-750M",
+    "model": "Lenovo PB1-750M"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "PB1-770M/Lenovo PHAB Plus",
+    "device": "PB1-770M",
+    "model": "EveryPad3"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "PB1-770M/Lenovo PHAB Plus",
+    "device": "PB1-770M",
+    "model": "Lenovo PB1-770M"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "PB1-770N",
+    "device": "PB1-770N",
+    "model": "Lenovo PB1-770N"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "PB2 plus",
+    "device": "PB2-670M1",
+    "model": "Lenovo PB2-670M1"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S1",
+    "device": "S1a40",
+    "model": "Lenovo S1a40"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S1La40",
+    "device": "S1La40",
+    "model": "Lenovo S1La40"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S2",
+    "device": "S2",
+    "model": "S2"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S5000",
+    "device": "S5000",
+    "model": "Lenovo S5000-F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S5000",
+    "device": "S5000",
+    "model": "Lenovo S5000-H"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S580",
+    "device": "S580",
+    "model": "Lenovo S580"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S60",
+    "device": "sisleylr",
+    "model": "Lenovo S60-a"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S60",
+    "device": "sisleylt",
+    "model": "Lenovo S60-t"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S60",
+    "device": "sisleylw",
+    "model": "Lenovo S60-w"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S6000L",
+    "device": "S6000L",
+    "model": "Lenovo S6000L-F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S61",
+    "device": "ideatv_S61",
+    "model": "ideatv S61"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S650",
+    "device": "S650",
+    "model": "Lenovo S650"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S650_ROW",
+    "device": "S650_ROW",
+    "model": "Lenovo S650"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S658t",
+    "device": "S658t",
+    "model": "Lenovo S658t"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S660",
+    "device": "S660",
+    "model": "Lenovo S660"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S668t",
+    "device": "S668t",
+    "model": "Lenovo S668t"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S686",
+    "device": "Alaska",
+    "model": "Lenovo S686"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S720",
+    "device": "S720",
+    "model": "Lenovo S720"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S750",
+    "device": "S750",
+    "model": "Lenovo S750"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S810t",
+    "device": "shellt",
+    "model": "Lenovo S810t"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S820",
+    "device": "S820",
+    "model": "Lenovo S820"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S820",
+    "device": "S820_AMX_ROW",
+    "model": "Lenovo S820"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S820",
+    "device": "S820_ROW",
+    "model": "Lenovo S820"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S820",
+    "device": "S820_ROW",
+    "model": "Lenovo S820_ROW"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S820e",
+    "device": "applee",
+    "model": "Lenovo S820e"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S850",
+    "device": "S850",
+    "model": "Lenovo S850"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S850e",
+    "device": "sichuan",
+    "model": "Lenovo S850e"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S850t",
+    "device": "S850t",
+    "model": "Lenovo S850t"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S856",
+    "device": "shellamx",
+    "model": "Lenovo S856"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S856",
+    "device": "shellr",
+    "model": "Lenovo S856"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S856",
+    "device": "shellr_s",
+    "model": "Lenovo S856"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S856",
+    "device": "shellw",
+    "model": "Lenovo S856"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S858t",
+    "device": "Selected",
+    "model": "Lenovo S858t"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S860",
+    "device": "S860",
+    "model": "Lenovo S860"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S860e",
+    "device": "shelle",
+    "model": "Lenovo S860e"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S868",
+    "device": "S868t",
+    "model": "Lenovo S868t"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S870e",
+    "device": "S870e",
+    "model": "LNV-Lenovo S870e"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S870e",
+    "device": "S870e",
+    "model": "Lenovo S870e"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S898t",
+    "device": "S898t",
+    "model": "Lenovo S898t"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S898t+",
+    "device": "S898tp",
+    "model": "Lenovo S898t+"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S90",
+    "device": "sisleye",
+    "model": "Lenovo S90-e"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S90-A",
+    "device": "sisleyr",
+    "model": "Lenovo S90-A"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S90-L",
+    "device": "sisleyr_amx",
+    "model": "Lenovo S90-L"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S90-T",
+    "device": "sisleyt",
+    "model": "Lenovo S90-t"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S90-U",
+    "device": "sisleyw",
+    "model": "Lenovo S90-u"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S920",
+    "device": "S920",
+    "model": "Lenovo S920"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S930",
+    "device": "S930",
+    "model": "Lenovo S930"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S930_ROW",
+    "device": "S930_ROW",
+    "model": "Lenovo S930"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S938t",
+    "device": "S938t",
+    "model": "Lenovo S938t"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S939",
+    "device": "S939",
+    "model": "Lenovo S939"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S960",
+    "device": "S960",
+    "model": "Lenovo S960"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S960",
+    "device": "S960_AMX_ROW",
+    "model": "Lenovo S960"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "S968t",
+    "device": "S968t",
+    "model": "Lenovo S968t"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "Softbank 501LV",
+    "device": "501LV",
+    "model": "501LV"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB 2 A10",
+    "device": "A10-70F",
+    "model": "Lenovo TAB 2 A10-70F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB 2 A10",
+    "device": "A10-70L",
+    "model": "Lenovo TAB 2 A10-70L"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB 2 A10",
+    "device": "A10-70LC",
+    "model": "Lenovo TAB 2 A10-70LC"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB 2 A7-10F",
+    "device": "Tab2A7-10F",
+    "model": "Tab2A7-10F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB 2 A7-20F",
+    "device": "Tab2A7-20F",
+    "model": "Tab2A7-20F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB 2 A7-30F",
+    "device": "A7-30F",
+    "model": "Lenovo TAB 2 A7-30F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB 2 A7-30HC",
+    "device": "A7-30HC",
+    "model": "Lenovo 2 A7-30HC"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB 2 A7-30HC",
+    "device": "A7-30HC",
+    "model": "Lenovo TAB 2 A7-30HC"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB 2 A7-30TC",
+    "device": "A7-30TC",
+    "model": "Lenovo 2 A7-30TC"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB 2 A8-50F",
+    "device": "A8-50F",
+    "model": "Lenovo 2 A8-50F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB 2 A8-50F",
+    "device": "A8-50F",
+    "model": "Lenovo TAB 2 A8-50F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB A10-80HC",
+    "device": "A10_80HC",
+    "model": "TAB A10-80HC"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB S8-50F",
+    "device": "S8-50F",
+    "model": "Lenovo TAB S8-50F"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB S8-50L",
+    "device": "S8-50L",
+    "model": "Lenovo TAB S8-50L"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB S8-50LC",
+    "device": "S8-50LC",
+    "model": "Lenovo S8-50LC"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB S8-50LC",
+    "device": "S8-50LC",
+    "model": "Lenovo TAB S8-50LC"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB4 10 Plus",
+    "device": "X704Y",
+    "model": "Lenovo TB-X704Y"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TAB4 8",
+    "device": "TB-8504L",
+    "model": "Lenovo TB-8504L"
+  },
+  {
+    "brand": "Lenovo",
+    "name": "TB3-601LV",
+    "device": "601LV",
+    "model": "601LV"
+  }
+]

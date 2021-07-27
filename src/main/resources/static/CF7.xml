@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<device>
+    <general_information>
+        <report_type>cell</report_type>
+        <selected_manufacture>Tecno</selected_manufacture>
+        <selected_model>CF7 Tecno</selected_model>
+        <detected_manufacture>TECNO</detected_manufacture>
+        <detected_model>TECNO CF7</detected_model>
+        <revision>8.1.0 O11019 BCDEFH-200224V237</revision>
+        <imei>359050099550628</imei>
+        <iccid>8923420037269121967</iccid>
+        <imsi>621208473419995</imsi>
+        <advertisingid>065993ef-e821-4144-949c-9369cd9e2acf</advertisingid>
+        <start_date_time>2021-06-15T12:43:24+01:00</start_date_time>
+        <end_date_time>2021-06-15T12:47:28+01:00</end_date_time>
+        <phone_date_time>2021-06-15T12:47:12+01:00</phone_date_time>
+        <connection_type>USB Cable</connection_type>
+        <ufed_version>
+            <xml_format>1.0.2.9</xml_format>
+            <software>7.44.0.80 UFED</software>
+            <serial>7213602</serial>
+        </ufed_version>
+        <usingclient>1</usingclient>
+    </general_information>
+    <contacts>
+        <sha256>D614F714F949E63837EFE3DDC730438D801DD8EFEE4EA8A674562AF99FA32223</sha256>
+        <count>15</count>
+        <contact>
+            <id>1</id>
+            <name>John Alade</name>
+            <memory>Phone</memory>
+            <phone_number>
+                <designation>Mobile</designation>
+                <value>080612345</value>
+            </phone_number>
+        </contact>
+        <contact>
+            <id>2</id>
+            <name>Vincent Olomu</name>
+            <memory>Phone</memory>
+            <phone_number>
+                <designation>General</designation>
+                <value>+2348067999115</value>
+            </phone_number>
+            <extra_field>
+                <designation>Email</designation>
+                <value>aso@live.com</value>
+            </extra_field>
+            <extra_field>
+                <designation>Company</designation>
+                <value>Student</value>
+            </extra_field>
+        </contact>
+
+    </contacts>
+
+
+    <incoming_calls>
+        <sha256>B3D510EF04275CA8E698E5B3CBB0ECE3949EF9252F0CDC839E9EE347409A2209</sha256>
+        <incoming_call>
+            <id>1</id>
+            <type>Incoming</type>
+            <number>08130694111</number>
+            <name>Janet Akase</name>
+            <timestamp>2019-07-11T20:46:03+01:00</timestamp>
+            <duration>0:00:01</duration>
+        </incoming_call>
+        <incoming_call>
+            <id>2</id>
+            <type>Incoming</type>
+            <number>08130211222</number>
+            <name>Boko M</name>
+            <timestamp>2019-07-13T12:58:40+01:00</timestamp>
+            <duration>0:00:14</duration>
+        </incoming_call>
+    </incoming_calls>
+
+
+    <outgoing_calls>
+        <sha256>B3D510EF04275CA8E698E5B3CBB0ECE3949EF9252F0CDC839E9EE347409A2209</sha256>
+        <outgoing_call>
+            <id>1</id>
+            <type>Outgoing</type>
+            <number>07030111576</number>
+            <name>John kano</name>
+            <timestamp>2019-07-11T13:02:13+01:00</timestamp>
+            <duration>35</duration>
+        </outgoing_call>
+        <outgoing_call>
+            <id>2</id>
+            <type>Outgoing</type>
+            <number>07030111292</number>
+            <name>N/A</name>
+            <timestamp>2019-07-11T13:02:57+01:00</timestamp>
+            <duration>40</duration>
+        </outgoing_call>
+        <outgoing_call>
+            <id>3</id>
+            <type>Outgoing</type>
+            <number>07030111292</number>
+            <name>N/A</name>
+            <timestamp>2019-07-11T13:03:35+01:00</timestamp>
+            <duration>51</duration>
+        </outgoing_call>
+
+    </outgoing_calls>
+
+
+    <missed_calls>
+        <sha256>B3D510EF04275CA8E698E5B3CBB0ECE3949EF9252F0CDC839E9EE347409A2209</sha256>
+        <missed_call>
+            <id>1</id>
+            <type>Missed</type>
+            <number>08130694889</number>
+            <name>center Call </name>
+            <internal_name>1</internal_name>
+            <timestamp>2019-07-09T10:17:23+01:00</timestamp>
+        </missed_call>
+        <missed_call>
+            <id>2</id>
+            <type>Missed</type>
+            <number>08130694927</number>
+            <name>N/A</name>
+            <timestamp>2019-07-11T20:43:36+01:00</timestamp>
+        </missed_call>
+
+    </missed_calls>
+
+
+    <sms_messages>
+        <sha256>D53D7E2D54EF9382437A5DC36EBE57D1FC06A07DDF1F312C480854B457B65FC7</sha256>
+        <sms_message>
+            <id>1</id>
+            <number></number>
+            <name>9mobile APN</name>
+            <timestamp>2019-07-08T19:33:06+01:00</timestamp>
+            <status>Read</status>
+            <folder>Inbox</folder>
+            <storage>Phone</storage>
+            <type>Incoming</type>
+            <text>Please call me on my other phone as my phone may be bugged.</text>
+            <smsc>+2348090051111</smsc>
+        </sms_message>
+        <sms_message>
+            <id>2</id>
+            <number></number>
+            <name>9mobile APN</name>
+            <timestamp>2019-07-08T19:34:39+01:00</timestamp>
+            <status>Read</status>
+            <folder>Inbox</folder>
+            <storage>Phone</storage>
+            <type>Incoming</type>
+            <text>We should pick him up him tomorow sir</text>
+            <smsc>+234809404891</smsc>
+        </sms_message>
+        <sms_message>
+            <id>3</id>
+            <number></number>
+            <name>9mobile</name>
+            <timestamp>2019-07-08T19:34:57+01:00</timestamp>
+            <status>Read</status>
+            <folder>Inbox</folder>
+            <storage>Phone</storage>
+            <type>Incoming</type>
+            <text>You have N 200.00 FREE credit to call ur 5 You &#38; Me numbers this week. To register your You &#38; Me number, dial *233*1*9mobile number# NOW.You recharged N1000.00 and you have been rewarded with N2100.00 for onnet Valid until 13-07-2019, N900.00for national calls Valid until 13-07-2019 and N6000.00 for data Valid until 13-07-2019.</text>
+            <smsc>+2348092230377</smsc>
+        </sms_message>
+    </sms_messages>
+
+    <image_files>
+        <image>
+            <id>1</id>
+            <name>Screenshot_20190711-152109.png</name>
+            <stored_name>Screenshot_20190711-152109.png</stored_name>
+            <thumb_location>Images/Screenshot_20190711-152109.png</thumb_location>
+            <path>Internal shared storage/Pictures/Screenshot/</path>
+            <memory>Phone</memory>
+            <size>889362</size>
+            <date_time>2019-07-11T15:21:10</date_time>
+            <date_time_modified>2019-07-11T15:21:10</date_time_modified>
+            <sha256>40C1FC8B27C95375982522104475FAE655A49F0010AECD4803B1CA44B4670010</sha256>
+            <meta></meta>
+        </image>
+        <image>
+            <id>2</id>
+            <name>IMG_20190711_132137_7.jpg</name>
+            <stored_name>IMG_20190711_132137_7.jpg</stored_name>
+            <thumb_location>Images/Thumbs/IMG_20190711_132137_7.jpg</thumb_location>
+            <path>Internal shared storage/DCIM/Camera/</path>
+            <memory>Phone</memory>
+            <size>3011960</size>
+            <date_time>2019-07-11T13:21:37</date_time>
+            <date_time_modified>2019-07-11T13:21:37</date_time_modified>
+            <sha256>B27CF8CF54861826947D43B62D272E143CC31B09393E8A0C1F2C56BA06500758</sha256>
+            <meta>
+                <resolution>72x72 (unit: inch)</resolution>
+                <pixel_resolution>3120x4160</pixel_resolution>
+                <camera_make>TECNO MOBILE LIMITED</camera_make>
+                <camera_model>TECNO CF7</camera_model>
+                <exif_date_time>2019:07:11 13:21:37</exif_date_time>
+            </meta>
+        </image>
+    </image_files>
+
+    <documents_files>
+        <documents>
+            <id>1</id>
+            <name>ITEMS FROM JIT AT THE DIA HQ.docx</name>
+            <stored_name>ITEMS FROM JIT AT THE DIA HQ.docx</stored_name>
+            <path>Internal shared storage/</path>
+            <memory>Phone</memory>
+            <sha256>57AE074F8BA819099FEBF10885EE603403A098C7C4149FF2B2B3063B24123A7F</sha256>
+            <size>13225</size>
+            <date_time>2020-05-19T13:18:41</date_time>
+            <date_time_modified>2020-05-19T13:19:01</date_time_modified>
+        </documents>
+        <documents>
+            <id>2</id>
+            <name>file_tree.txt</name>
+            <stored_name>file_tree.txt</stored_name>
+            <path>Internal shared storage/mtklog/mobilelog/</path>
+            <memory>Phone</memory>
+            <sha256>C1E38A587A0A62D5FFAEF2EC334F7DEE761C97A21AAD0F5BA8034BD50F051841</sha256>
+            <size>52</size>
+            <date_time>2019-07-08T19:31:51</date_time>
+            <date_time_modified>2018-01-01T00:12:39</date_time_modified>
+        </documents>
+        <documents>
+            <id>3</id>
+            <name>file_tree.txt</name>
+            <stored_name>0000~file_tree.txt</stored_name>
+            <path>Internal shared storage/mtklog/gpsdbglog/</path>
+            <memory>Phone</memory>
+            <sha256>DE98660914CE7CA4E4EEF459DEF69D75BA1324A6D74272FCB60DD79C67429C54</sha256>
+            <size>30</size>
+            <date_time>2019-07-11T13:01:57</date_time>
+            <date_time_modified>2019-07-08T19:55:16</date_time_modified>
+        </documents>
+        <documents>
+            <id>4</id>
+            <name>OLU_NOTIFICATION_STATUS.txt</name>
+            <stored_name>OLU_NOTIFICATION_STATUS.txt</stored_name>
+            <path>Internal shared storage/Android/data/com.gameloft.android.GloftANPH/files/</path>
+            <memory>Phone</memory>
+            <sha256>984119B27E4E6542E1A7293994A00476B860463F6D7A25013A9799D3C5AAE293</sha256>
+            <size>25</size>
+            <date_time>2019-08-29T13:48:11</date_time>
+            <date_time_modified>2019-08-28T23:03:08</date_time_modified>
+        </documents>
+    </documents_files>
+</device>

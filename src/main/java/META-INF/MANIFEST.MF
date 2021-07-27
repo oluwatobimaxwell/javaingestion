@@ -1,0 +1,53 @@
+Manifest-Version: 1.0
+Main-Class: com.elastic.javaingestion.JavaingestionApplication
+Class-Path: jackson-dataformat-smile-2.12.4.jar elasticsearch-rest-high-
+ level-client-7.12.1.jar junit-platform-engine-1.7.2.jar spring-test-5.3
+ .9.jar junit-jupiter-api-5.7.2.jar netty-transport-4.1.66.Final.jar jso
+ n-simple-1.1.1.jar log4j-to-slf4j-2.14.1.jar jna-5.7.0-1.jar elasticsea
+ rch-core-7.12.1.jar jsonassert-1.5.0.jar junit-4.13.2.jar tomcat-embed-
+ el-9.0.50.jar netty-resolver-4.1.66.Final.jar automaton-1.11-8.jar spri
+ ng-boot-starter-json-2.5.3.jar jackson-dataformat-yaml-2.12.4.jar elast
+ icsearch-7.12.1.jar spring-boot-starter-logging-2.5.3.jar elasticsearch
+ -secure-sm-7.12.1.jar mockito-junit-jupiter-3.9.0.jar jakarta.annotatio
+ n-api-1.3.5.jar jakarta.activation-api-1.2.2.jar jackson-dataformat-cbo
+ r-2.12.4.jar lucene-spatial3d-8.8.0.jar spring-beans-5.3.9.jar commons-
+ lang3-3.12.0.jar junit-platform-commons-1.7.2.jar spring-webmvc-5.3.9.j
+ ar lucene-spatial-extras-8.8.0.jar parent-join-client-7.12.1.jar byte-b
+ uddy-1.10.22.jar commons-codec-1.15.jar spring-boot-starter-web-2.5.3.j
+ ar objenesis-3.2.jar asm-9.1.jar transport-netty4-client-7.12.1.jar sna
+ keyaml-1.28-android.jar mchange-commons-java-0.2.15.jar jackson-datatyp
+ e-jsr310-2.12.4.jar spring-boot-2.5.3.jar netty-buffer-4.1.66.Final.jar
+  spring-boot-starter-test-2.5.3.jar junit-jupiter-engine-5.7.2.jar mock
+ ito-core-3.9.0.jar spring-tx-5.3.9.jar snakeyaml-1.28.jar jakarta.xml.b
+ ind-api-2.3.3.jar hamcrest-core-2.2.jar netty-common-4.1.66.Final.jar j
+ ul-to-slf4j-1.7.32.jar slf4j-api-1.7.32.jar spring-boot-starter-data-el
+ asticsearch-2.5.3.jar netty-codec-4.1.66.Final.jar android-json-0.0.201
+ 31108.vaadin1.jar lucene-analyzers-common-8.8.0.jar lucene-sandbox-8.8.
+ 0.jar tomcat-embed-websocket-9.0.50.jar lucene-highlighter-8.8.0.jar sp
+ ring-context-support-5.3.9.jar spring-data-commons-2.5.3.jar joda-time-
+ 2.10.4.jar spring-boot-starter-quartz-2.5.3.jar spring-boot-starter-tom
+ cat-2.5.3.jar tomcat-embed-core-9.0.50.jar lucene-grouping-8.8.0.jar co
+ mpiler-0.9.6.jar lucene-join-8.8.0.jar lucene-core-8.8.0.jar spring-boo
+ t-starter-2.5.3.jar spring-data-elasticsearch-4.2.3.jar t-digest-3.2.ja
+ r mapper-extras-client-7.12.1.jar quartz-2.3.2.jar spring-boot-autoconf
+ igure-2.5.3.jar spring-context-5.3.9.jar jackson-annotations-2.12.4.jar
+  jackson-datatype-jdk8-2.12.4.jar httpasyncclient-4.1.4.jar spring-expr
+ ession-5.3.9.jar httpclient-4.5.13.jar HdrHistogram-2.1.9.jar rank-eval
+ -client-7.12.1.jar hppc-0.8.1.jar spring-core-5.3.9.jar json-path-2.5.0
+ .jar byte-buddy-agent-1.10.22.jar spring-aop-5.3.9.jar logback-classic-
+ 1.2.4.jar junit-jupiter-5.7.2.jar assertj-core-3.19.0.jar accessors-sma
+ rt-2.4.7.jar lang-mustache-client-7.12.1.jar apiguardian-api-1.1.0.jar 
+ spring-boot-test-2.5.3.jar jackson-core-2.12.4.jar spring-web-5.3.9.jar
+  elasticsearch-cli-7.12.1.jar httpcore-4.4.14.jar elasticsearch-x-conte
+ nt-7.12.1.jar elasticsearch-rest-client-7.12.1.jar elasticsearch-geo-7.
+ 12.1.jar log4j-api-2.14.1.jar lucene-misc-8.8.0.jar jackson-databind-2.
+ 12.4.jar lucene-queries-8.8.0.jar elasticsearch-plugin-classloader-7.12
+ .1.jar spring-jcl-5.3.9.jar aggs-matrix-stats-client-7.12.1.jar lucene-
+ queryparser-8.8.0.jar logback-core-1.2.4.jar jopt-simple-5.0.2.jar luce
+ ne-backward-codecs-8.8.0.jar hamcrest-2.2.jar xmlunit-core-2.8.2.jar ne
+ tty-codec-http-4.1.66.Final.jar generex-1.0.2.jar junit-jupiter-params-
+ 5.7.2.jar json-smart-2.4.7.jar netty-handler-4.1.66.Final.jar opentest4
+ j-1.2.0.jar httpcore-nio-4.4.14.jar spring-boot-test-autoconfigure-2.5.
+ 3.jar javafaker-1.0.2.jar lucene-suggest-8.8.0.jar lucene-memory-8.8.0.
+ jar jackson-module-parameter-names-2.12.4.jar
+
