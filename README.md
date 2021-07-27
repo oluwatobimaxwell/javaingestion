@@ -33,6 +33,7 @@ On first run an index (**devices** ) is created. Proceed to create index pattern
 4. Select timestamp for timestamp field
 5. Click show advance settings
 	Enter the string below for custom index pattern ID
+	
 	 `b8306ee0-ee23-11eb-b886-0d18f0efadb0`
 6. Complete the process and proceed to Dashboard setup
 
