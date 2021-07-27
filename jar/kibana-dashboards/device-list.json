@@ -1,0 +1,139 @@
+{
+  "version": "7.13.3",
+  "objects": [
+    {
+      "id": "28fe8210-ee29-11eb-b886-0d18f0efadb0",
+      "type": "dashboard",
+      "namespaces": [
+        "default"
+      ],
+      "updated_at": "2021-07-27T07:22:30.571Z",
+      "version": "WzM3NTg1LDld",
+      "attributes": {
+        "title": "Devices",
+        "hits": 0,
+        "description": "",
+        "panelsJSON": "[{\"version\":\"7.13.3\",\"type\":\"lens\",\"gridData\":{\"x\":0,\"y\":0,\"w\":12,\"h\":15,\"i\":\"c19f3767-d80f-4ba4-bacd-437a7adb4c15\"},\"panelIndex\":\"c19f3767-d80f-4ba4-bacd-437a7adb4c15\",\"embeddableConfig\":{\"attributes\":{\"title\":\"\",\"type\":\"lens\",\"visualizationType\":\"lnsMetric\",\"state\":{\"datasourceStates\":{\"indexpattern\":{\"layers\":{\"429317cf-5e55-47ab-9841-390faaa07ca2\":{\"columns\":{\"1cf5dc49-e360-4094-a29b-562ee4560df2\":{\"label\":\"Device Count\",\"dataType\":\"number\",\"operationType\":\"unique_count\",\"scale\":\"ratio\",\"sourceField\":\"imei.keyword\",\"isBucketed\":false,\"customLabel\":true}},\"columnOrder\":[\"1cf5dc49-e360-4094-a29b-562ee4560df2\"],\"incompleteColumns\":{}}}}},\"visualization\":{\"layerId\":\"429317cf-5e55-47ab-9841-390faaa07ca2\",\"accessor\":\"1cf5dc49-e360-4094-a29b-562ee4560df2\"},\"query\":{\"query\":\"\",\"language\":\"kuery\"},\"filters\":[]},\"references\":[{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-current-indexpattern\"},{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-layer-429317cf-5e55-47ab-9841-390faaa07ca2\"}]},\"enhancements\":{},\"hidePanelTitles\":false},\"title\":\"Devices\"},{\"version\":\"7.13.3\",\"type\":\"lens\",\"gridData\":{\"x\":12,\"y\":0,\"w\":12,\"h\":5,\"i\":\"5f79908c-6139-471b-9493-4befbf5832bc\"},\"panelIndex\":\"5f79908c-6139-471b-9493-4befbf5832bc\",\"embeddableConfig\":{\"attributes\":{\"title\":\"\",\"type\":\"lens\",\"visualizationType\":\"lnsMetric\",\"state\":{\"datasourceStates\":{\"indexpattern\":{\"layers\":{\"b570ab6a-3987-4831-80ab-2bfa72243e63\":{\"columns\":{\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\":{\"label\":\"Contacts\",\"dataType\":\"number\",\"operationType\":\"unique_count\",\"scale\":\"ratio\",\"sourceField\":\"contact_sha256.keyword\",\"isBucketed\":false,\"customLabel\":true}},\"columnOrder\":[\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"],\"incompleteColumns\":{}}}}},\"visualization\":{\"layerId\":\"b570ab6a-3987-4831-80ab-2bfa72243e63\",\"accessor\":\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"},\"query\":{\"query\":\"\",\"language\":\"kuery\"},\"filters\":[]},\"references\":[{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-current-indexpattern\"},{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63\"}]},\"enhancements\":{},\"hidePanelTitles\":false},\"title\":\"Contacts\"},{\"version\":\"7.13.3\",\"type\":\"lens\",\"gridData\":{\"x\":24,\"y\":0,\"w\":12,\"h\":15,\"i\":\"c50582f0-0462-460d-81ac-2f98ec4307b9\"},\"panelIndex\":\"c50582f0-0462-460d-81ac-2f98ec4307b9\",\"embeddableConfig\":{\"attributes\":{\"title\":\"\",\"type\":\"lens\",\"visualizationType\":\"lnsMetric\",\"state\":{\"datasourceStates\":{\"indexpattern\":{\"layers\":{\"b570ab6a-3987-4831-80ab-2bfa72243e63\":{\"columns\":{\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\":{\"label\":\"SMS Messages\",\"dataType\":\"number\",\"operationType\":\"unique_count\",\"scale\":\"ratio\",\"sourceField\":\"sms_message_sha256.keyword\",\"isBucketed\":false,\"customLabel\":true}},\"columnOrder\":[\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"],\"incompleteColumns\":{}}}}},\"visualization\":{\"layerId\":\"b570ab6a-3987-4831-80ab-2bfa72243e63\",\"accessor\":\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"},\"query\":{\"query\":\"\",\"language\":\"kuery\"},\"filters\":[]},\"references\":[{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-current-indexpattern\"},{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63\"}]},\"enhancements\":{},\"hidePanelTitles\":false},\"title\":\"SMS Messages\"},{\"version\":\"7.13.3\",\"type\":\"lens\",\"gridData\":{\"x\":36,\"y\":0,\"w\":12,\"h\":5,\"i\":\"0f7d121a-e08c-4615-a258-01891b1d5a7f\"},\"panelIndex\":\"0f7d121a-e08c-4615-a258-01891b1d5a7f\",\"embeddableConfig\":{\"attributes\":{\"title\":\"\",\"type\":\"lens\",\"visualizationType\":\"lnsMetric\",\"state\":{\"datasourceStates\":{\"indexpattern\":{\"layers\":{\"b570ab6a-3987-4831-80ab-2bfa72243e63\":{\"columns\":{\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\":{\"label\":\"Missed Calls\",\"dataType\":\"number\",\"operationType\":\"unique_count\",\"scale\":\"ratio\",\"sourceField\":\"missed_call_sha256.keyword\",\"isBucketed\":false,\"customLabel\":true}},\"columnOrder\":[\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"],\"incompleteColumns\":{}}}}},\"visualization\":{\"layerId\":\"b570ab6a-3987-4831-80ab-2bfa72243e63\",\"accessor\":\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"},\"query\":{\"query\":\"\",\"language\":\"kuery\"},\"filters\":[]},\"references\":[{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-current-indexpattern\"},{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63\"}]},\"enhancements\":{},\"hidePanelTitles\":false},\"title\":\"Missed Calls\"},{\"version\":\"7.13.3\",\"type\":\"lens\",\"gridData\":{\"x\":12,\"y\":5,\"w\":12,\"h\":5,\"i\":\"a69b8328-8172-4a11-810a-497830560971\"},\"panelIndex\":\"a69b8328-8172-4a11-810a-497830560971\",\"embeddableConfig\":{\"attributes\":{\"title\":\"\",\"type\":\"lens\",\"visualizationType\":\"lnsMetric\",\"state\":{\"datasourceStates\":{\"indexpattern\":{\"layers\":{\"b570ab6a-3987-4831-80ab-2bfa72243e63\":{\"columns\":{\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\":{\"label\":\"Images\",\"dataType\":\"number\",\"operationType\":\"unique_count\",\"scale\":\"ratio\",\"sourceField\":\"image_sha256.keyword\",\"isBucketed\":false,\"customLabel\":true}},\"columnOrder\":[\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"],\"incompleteColumns\":{}}}}},\"visualization\":{\"layerId\":\"b570ab6a-3987-4831-80ab-2bfa72243e63\",\"accessor\":\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"},\"query\":{\"query\":\"\",\"language\":\"kuery\"},\"filters\":[]},\"references\":[{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-current-indexpattern\"},{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63\"}]},\"enhancements\":{},\"hidePanelTitles\":false},\"title\":\"Images\"},{\"version\":\"7.13.3\",\"type\":\"lens\",\"gridData\":{\"x\":36,\"y\":5,\"w\":12,\"h\":5,\"i\":\"c44946d4-1934-431b-9075-380b51b10e9c\"},\"panelIndex\":\"c44946d4-1934-431b-9075-380b51b10e9c\",\"embeddableConfig\":{\"attributes\":{\"title\":\"\",\"type\":\"lens\",\"visualizationType\":\"lnsMetric\",\"state\":{\"datasourceStates\":{\"indexpattern\":{\"layers\":{\"b570ab6a-3987-4831-80ab-2bfa72243e63\":{\"columns\":{\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\":{\"label\":\"Outgoing Calls\",\"dataType\":\"number\",\"operationType\":\"unique_count\",\"scale\":\"ratio\",\"sourceField\":\"outgoing_call_sha256.keyword\",\"isBucketed\":false,\"customLabel\":true}},\"columnOrder\":[\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"],\"incompleteColumns\":{}}}}},\"visualization\":{\"layerId\":\"b570ab6a-3987-4831-80ab-2bfa72243e63\",\"accessor\":\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"},\"query\":{\"query\":\"\",\"language\":\"kuery\"},\"filters\":[]},\"references\":[{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-current-indexpattern\"},{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63\"}]},\"enhancements\":{},\"hidePanelTitles\":false},\"title\":\"Outgoing Calls\"},{\"version\":\"7.13.3\",\"type\":\"lens\",\"gridData\":{\"x\":12,\"y\":10,\"w\":12,\"h\":5,\"i\":\"970008dc-b3d8-4e64-8253-feb55e98e3ad\"},\"panelIndex\":\"970008dc-b3d8-4e64-8253-feb55e98e3ad\",\"embeddableConfig\":{\"attributes\":{\"title\":\"\",\"type\":\"lens\",\"visualizationType\":\"lnsMetric\",\"state\":{\"datasourceStates\":{\"indexpattern\":{\"layers\":{\"b570ab6a-3987-4831-80ab-2bfa72243e63\":{\"columns\":{\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\":{\"label\":\"Documents\",\"dataType\":\"number\",\"operationType\":\"unique_count\",\"scale\":\"ratio\",\"sourceField\":\"document_sha256.keyword\",\"isBucketed\":false,\"customLabel\":true}},\"columnOrder\":[\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"],\"incompleteColumns\":{}}}}},\"visualization\":{\"layerId\":\"b570ab6a-3987-4831-80ab-2bfa72243e63\",\"accessor\":\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"},\"query\":{\"query\":\"\",\"language\":\"kuery\"},\"filters\":[]},\"references\":[{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-current-indexpattern\"},{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63\"}]},\"enhancements\":{},\"hidePanelTitles\":false},\"title\":\"Documents\"},{\"version\":\"7.13.3\",\"type\":\"lens\",\"gridData\":{\"x\":36,\"y\":10,\"w\":12,\"h\":5,\"i\":\"ced8c016-c863-4b1a-8bcd-75c3ff23b4d9\"},\"panelIndex\":\"ced8c016-c863-4b1a-8bcd-75c3ff23b4d9\",\"embeddableConfig\":{\"attributes\":{\"title\":\"\",\"type\":\"lens\",\"visualizationType\":\"lnsMetric\",\"state\":{\"datasourceStates\":{\"indexpattern\":{\"layers\":{\"b570ab6a-3987-4831-80ab-2bfa72243e63\":{\"columns\":{\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\":{\"label\":\"Incoming Calls\",\"dataType\":\"number\",\"operationType\":\"unique_count\",\"scale\":\"ratio\",\"sourceField\":\"incoming_call_sha256.keyword\",\"isBucketed\":false,\"customLabel\":true}},\"columnOrder\":[\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"],\"incompleteColumns\":{}}}}},\"visualization\":{\"layerId\":\"b570ab6a-3987-4831-80ab-2bfa72243e63\",\"accessor\":\"e8aae813-703c-458d-bdde-3e7dbeebe1a0\"},\"query\":{\"query\":\"\",\"language\":\"kuery\"},\"filters\":[]},\"references\":[{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-current-indexpattern\"},{\"type\":\"index-pattern\",\"id\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"name\":\"indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63\"}]},\"enhancements\":{},\"hidePanelTitles\":false},\"title\":\"Incoming Calls\"},{\"version\":\"7.13.3\",\"type\":\"visualization\",\"gridData\":{\"x\":0,\"y\":15,\"w\":48,\"h\":31,\"i\":\"8918eb4b-5909-4163-8028-b36723aa9381\"},\"panelIndex\":\"8918eb4b-5909-4163-8028-b36723aa9381\",\"embeddableConfig\":{\"savedVis\":{\"title\":\"\",\"description\":\"\",\"type\":\"table\",\"params\":{\"perPage\":20,\"showPartialRows\":false,\"showMetricsAtAllLevels\":false,\"showTotal\":true,\"showToolbar\":false,\"totalFunc\":\"sum\",\"percentageCol\":\"\"},\"uiState\":{},\"data\":{\"aggs\":[{\"id\":\"2\",\"enabled\":true,\"type\":\"terms\",\"params\":{\"field\":\"imsi.keyword\",\"orderBy\":\"_key\",\"order\":\"desc\",\"size\":10000,\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"IMSI\"},\"schema\":\"bucket\"},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"params\":{\"field\":\"detected_manufacture.keyword\",\"orderBy\":\"_key\",\"order\":\"desc\",\"size\":10000,\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Brand\"},\"schema\":\"bucket\"},{\"id\":\"4\",\"enabled\":true,\"type\":\"terms\",\"params\":{\"field\":\"selected_model.keyword\",\"orderBy\":\"_key\",\"order\":\"desc\",\"size\":10000,\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"customLabel\":\"Model\"},\"schema\":\"bucket\"},{\"id\":\"5\",\"enabled\":true,\"type\":\"cardinality\",\"params\":{\"field\":\"image_sha256.keyword\",\"customLabel\":\"Images\"},\"schema\":\"metric\"},{\"id\":\"6\",\"enabled\":true,\"type\":\"cardinality\",\"params\":{\"field\":\"document_sha256.keyword\",\"customLabel\":\"Documents\"},\"schema\":\"metric\"},{\"id\":\"7\",\"enabled\":true,\"type\":\"cardinality\",\"params\":{\"field\":\"sms_message_sha256.keyword\",\"customLabel\":\"SMS Messages\"},\"schema\":\"metric\"},{\"id\":\"8\",\"enabled\":true,\"type\":\"cardinality\",\"params\":{\"field\":\"missed_call_sha256.keyword\",\"customLabel\":\"Missed Calls\"},\"schema\":\"metric\"},{\"id\":\"9\",\"enabled\":true,\"type\":\"cardinality\",\"params\":{\"field\":\"incoming_call_sha256.keyword\",\"customLabel\":\"Incoming Calls\"},\"schema\":\"metric\"},{\"id\":\"10\",\"enabled\":true,\"type\":\"cardinality\",\"params\":{\"field\":\"outgoing_call_sha256.keyword\",\"customLabel\":\"Outgoing Calls\"},\"schema\":\"metric\"},{\"id\":\"11\",\"enabled\":true,\"type\":\"cardinality\",\"params\":{\"field\":\"contact_sha256.keyword\",\"customLabel\":\"Contacts\"},\"schema\":\"metric\"}],\"searchSource\":{\"index\":\"b8306ee0-ee23-11eb-b886-0d18f0efadb0\",\"query\":{\"query\":\"\",\"language\":\"kuery\"},\"filter\":[]}}},\"enhancements\":{}}}]",
+        "optionsJSON": "{\"hidePanelTitles\":false,\"useMargins\":true}",
+        "version": 1,
+        "timeRestore": false,
+        "kibanaSavedObjectMeta": {
+          "searchSourceJSON": "{\"query\":{\"language\":\"kuery\",\"query\":\"\"},\"filter\":[]}"
+        }
+      },
+      "references": [
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "c19f3767-d80f-4ba4-bacd-437a7adb4c15:indexpattern-datasource-current-indexpattern"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "c19f3767-d80f-4ba4-bacd-437a7adb4c15:indexpattern-datasource-layer-429317cf-5e55-47ab-9841-390faaa07ca2"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "5f79908c-6139-471b-9493-4befbf5832bc:indexpattern-datasource-current-indexpattern"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "5f79908c-6139-471b-9493-4befbf5832bc:indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "c50582f0-0462-460d-81ac-2f98ec4307b9:indexpattern-datasource-current-indexpattern"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "c50582f0-0462-460d-81ac-2f98ec4307b9:indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "0f7d121a-e08c-4615-a258-01891b1d5a7f:indexpattern-datasource-current-indexpattern"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "0f7d121a-e08c-4615-a258-01891b1d5a7f:indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "a69b8328-8172-4a11-810a-497830560971:indexpattern-datasource-current-indexpattern"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "a69b8328-8172-4a11-810a-497830560971:indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "c44946d4-1934-431b-9075-380b51b10e9c:indexpattern-datasource-current-indexpattern"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "c44946d4-1934-431b-9075-380b51b10e9c:indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "970008dc-b3d8-4e64-8253-feb55e98e3ad:indexpattern-datasource-current-indexpattern"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "970008dc-b3d8-4e64-8253-feb55e98e3ad:indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "ced8c016-c863-4b1a-8bcd-75c3ff23b4d9:indexpattern-datasource-current-indexpattern"
+        },
+        {
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+          "name": "ced8c016-c863-4b1a-8bcd-75c3ff23b4d9:indexpattern-datasource-layer-b570ab6a-3987-4831-80ab-2bfa72243e63"
+        },
+        {
+          "name": "8918eb4b-5909-4163-8028-b36723aa9381:kibanaSavedObjectMeta.searchSourceJSON.index",
+          "type": "index-pattern",
+          "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0"
+        }
+      ],
+      "migrationVersion": {
+        "dashboard": "7.13.1"
+      },
+      "coreMigrationVersion": "7.13.3"
+    },
+    {
+      "id": "b8306ee0-ee23-11eb-b886-0d18f0efadb0",
+      "type": "index-pattern",
+      "namespaces": [
+        "default"
+      ],
+      "updated_at": "2021-07-27T08:13:51.971Z",
+      "version": "WzM4Mjc0LDld",
+      "attributes": {
+        "fieldAttrs": "{\"contact_name\":{\"count\":1},\"imsi\":{\"count\":2},\"sms_message.timestamp\":{\"count\":1},\"sms_message_number\":{\"count\":1}}",
+        "title": "devices",
+        "timeFieldName": "timestamp",
+        "fields": "[]",
+        "runtimeFieldMap": "{}",
+        "fieldFormatMap": "{\"imsi.keyword\":{\"id\":\"url\",\"params\":{\"urlTemplate\":\"http://localhost:5601/app/dashboards#/view/53bf4cb0-ee37-11eb-b886-0d18f0efadb0?_a=(description:'',filters:!(('$state':(store:appState),meta:(alias:!n,controlledBy:'1627320753943',disabled:!f,index:b8306ee0-ee23-11eb-b886-0d18f0efadb0,key:imsi.keyword,negate:!f,params:!('{{value}}'),type:phrases,value:'{{value}}'),query:(bool:(minimum_should_match:1,should:!((match_phrase:(imsi.keyword:'{{value}}'))))))),fullScreenMode:!f,options:(hidePanelTitles:!f,useMargins:!t),query:(language:kuery,query:''),tags:!(),timeRestore:!f,title:Device-Single,viewMode:view)&_g=(filters:!(),query:(language:kuery,query:''),refreshInterval:(pause:!t,value:0),time:(from:now-15M,to:now))\",\"labelTemplate\":\"{{value}}\"}},\"incoming_call_sha256.keyword\":{\"id\":\"url\",\"params\":{\"type\":\"audio\",\"urlTemplate\":\"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3\"}},\"outgoing_call_sha256.keyword\":{\"id\":\"url\",\"params\":{\"type\":\"audio\",\"urlTemplate\":\"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3\",\"labelTemplate\":\"Play\"}}}"
+      },
+      "references": [],
+      "migrationVersion": {
+        "index-pattern": "7.11.0"
+      },
+      "coreMigrationVersion": "7.13.3"
+    }
+  ]
+}
