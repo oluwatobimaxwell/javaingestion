@@ -1,10 +1,7 @@
 package com.elastic.javaingestion.elastic.utils;
 import com.elastic.javaingestion.elastic.services.device.DVService;
-import com.elastic.javaingestion.elastic.services.device.MediaRecord;
-import com.elastic.javaingestion.elastic.services.device.MediaRecordRepo;
 import com.elastic.javaingestion.elastic.services.phonecall.CallService;
 import org.apache.commons.codec.digest.DigestUtils;
-import org.apache.tomcat.util.json.JSONParser;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.json.XML;
@@ -18,25 +15,17 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.*;
-import java.util.stream.Stream;
-
-import au.com.bytecode.opencsv.bean.CsvToBean;
-import au.com.bytecode.opencsv.bean.HeaderColumnNameMappingStrategy;
-
-import static java.util.stream.Collectors.toList;
 //import org.codehaus.jackson.map.ObjectMapper;
 
 @Controller
 public class ContentProcessor {
     public final DVService deviceservice;
     public final CallService callService;
-    public final MediaRecordRepo mediaRecordRepo;
 
     @Autowired
-    public ContentProcessor(DVService deviceservice, CallService callService, MediaRecordRepo mediaRecordRepo){
+    public ContentProcessor(DVService deviceservice, CallService callService){
         this.deviceservice = deviceservice;
         this.callService = callService;
-        this.mediaRecordRepo = mediaRecordRepo;
     }
 
     public void run(BufferedReader content, String ext, Path path){
@@ -204,31 +193,4 @@ public class ContentProcessor {
         callService.ingestImage(data);
     }
 
-    public void uploadFileMD(String name, String ext, Path path) {
-        MediaRecord media = new MediaRecord();
-        FileHandler fh = new FileHandler();
-        String base64 = fh.loadFile(path.toString());
-        String[] pathreg = path.toString().split("/");
-        Map<String, String> data = new HashMap<>();
-        BasicFileAttributes attr = null;
-        try {
-            attr = Files.readAttributes(path, BasicFileAttributes.class);
-            media.setImage_file_memory(String.valueOf(attr.size()));
-            media.setImage_file_size(String.valueOf(attr.size()));
-            media.setImage_file_date_time(attr.creationTime().toString());
-            media.setImage_file_date_time_modified(attr.lastModifiedTime().toString());
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        media.setImage_file_path(path.toString());
-        media.setImage_file_name(name);
-        media.setImage_file_stored_name(name);
-        media.setImage_file_extension(ext);
-        media.setImage_file_base64("data:image/"+ext+";base64,"+base64);
-        media.setImei(pathreg[pathreg.length - 2]);
-        media.setImage_file_imei(pathreg[pathreg.length - 2]);
-        media.setImage_file_identifier(sha256(media.toString()));
-//        callService.ingestImage(data);
-        mediaRecordRepo.save(media);
-    }
-}
+  }
