@@ -38,7 +38,6 @@ public class CallService {
         return new JSONObject();
     }
 
-
     public XContentBuilder docContent(String line, String first){
         String[] column = first.split(",");
         String[] row = line.split(",");
@@ -47,7 +46,7 @@ public class CallService {
         try {
             XContentBuilder build = XContentFactory.jsonBuilder();
             build.startObject();
-            for (int i = 1; i < column.length; i++) {
+            for (int i = 0; i < column.length; i++) {
                 try{
                     String fieldName = column[i].toLowerCase().replace(" ", "_").replace(".", "");
                     build.field(fieldName, row[i]);
@@ -98,27 +97,15 @@ public class CallService {
 //        String path, String name, String img, String data
         try {
             BulkRequest request = new BulkRequest();
-
-
             IndexRequest doc = new IndexRequest("devices_test");
             doc.timeout(TimeValue.timeValueMinutes(5));
             doc.setRefreshPolicy(WriteRequest.RefreshPolicy.WAIT_UNTIL);
             doc.source(XContentType.SMILE);
-            //doc.setPipeline("pipeline");
             XContentBuilder build = XContentFactory.jsonBuilder();
             build.startObject();
-//            data.forEach((field, value) -> {
-//                System.out.println(field);
-//                try {
-//                    build.field(field, value);
-//                } catch (IOException e) {
-//                    e.printStackTrace();
-//                }
-//            });
             doc.source(data);
             build.endObject();
             request.add(doc);
-
             try {
                 getClient().indexAsync(doc, RequestOptions.DEFAULT, indexlistener);
                 System.out.println("Uploaded - Index");
@@ -128,7 +115,6 @@ public class CallService {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     public void csvToJson(List<String> lines, String firstLine){
@@ -136,11 +122,10 @@ public class CallService {
         request.timeout(TimeValue.timeValueMinutes(5));
         request.setRefreshPolicy(WriteRequest.RefreshPolicy.WAIT_UNTIL);
         lines.forEach(line -> {
-            IndexRequest doc = new IndexRequest("devices_test_call");
+            IndexRequest doc = new IndexRequest("devices_test");
             doc.source(docContent(line, firstLine));
             request.add(doc);
         });
-
         try {
             getClient().bulkAsync(request, RequestOptions.DEFAULT, listener);
         } catch (UnknownHostException e) {

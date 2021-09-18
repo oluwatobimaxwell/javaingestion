@@ -11,6 +11,7 @@ import org.elasticsearch.common.unit.TimeValue;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.data.elasticsearch.client.ClientConfiguration;
 import org.springframework.data.elasticsearch.client.RestClients;
 import org.springframework.stereotype.Service;
@@ -21,8 +22,11 @@ import java.util.List;
 
 @Service
 public class DVService {
+
     private final ContentBuilder contentBuilder;
 
+    @Value("${elasticsearch.url}")
+    public static String elasticsearchUrl;
 
     @Autowired
     public DVService(ContentBuilder contentBuilder){
@@ -49,14 +53,14 @@ public class DVService {
 
     public static RestHighLevelClient getClient() throws UnknownHostException {
         final ClientConfiguration config = ClientConfiguration.builder()
-                .connectedTo("localhost:9200")
+                .connectedTo("35.194.33.14:9201")
                 .build();
         return RestClients.create(config).rest();
     }
 
     public void bulkSaving(List<JSONObject> devices){
         BulkRequest request = new BulkRequest();
-        request.timeout(TimeValue.timeValueMinutes(5));
+        request.timeout(TimeValue.timeValueMinutes(50));
         request.setRefreshPolicy(WriteRequest.RefreshPolicy.WAIT_UNTIL);
         devices.forEach(device -> {
             JSONObject general_info = new JSONObject(device.get("general_information").toString());

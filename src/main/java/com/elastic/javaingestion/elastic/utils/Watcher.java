@@ -23,7 +23,18 @@ public class Watcher {
     public FileSystemWatcher fileSystemWatcher() {
         FileSystemWatcher fileSystemWatcher = new FileSystemWatcher(true, Duration.ofMillis(5000L), Duration.ofMillis(3000L));
         //fileSystemWatcher.addSourceFolder(new File("/path/to/folder"));
-        fileSystemWatcher.addSourceDirectory(new File("/Users/oluwatobisholanke/Documents/elasticsearch"));
+        try{
+            fileSystemWatcher.addSourceDirectory(new File("/Users/josephobozuwa/Downloads/elasticupload"));
+        }catch (Exception e){
+            System.out.println("WATCHER ERROR: "+e.getMessage());
+        }
+
+        try{
+            fileSystemWatcher.addSourceDirectory(new File("/Users/oluwatobisholanke/Documents/elasticsearch"));
+        }catch (Exception e){
+            System.out.println("WATCHER ERROR: "+e.getMessage());
+        }
+
         fileSystemWatcher.addListener(this.listener);
         fileSystemWatcher.start();
         System.out.println("started fileSystemWatcher");

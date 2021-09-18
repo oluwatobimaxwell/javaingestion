@@ -2,6 +2,7 @@ plugins {
 	id 'org.springframework.boot' version '2.5.3'
 	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
 	id 'java'
+	id 'war'
 }
 
 
@@ -17,6 +18,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-data-elasticsearch'
 	implementation 'org.springframework.boot:spring-boot-starter-quartz'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
+	providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	implementation 'com.github.javafaker:javafaker:1.0.2'
 	implementation 'org.json:json:20210307'
@@ -26,6 +28,7 @@ dependencies {
 	implementation 'org.codehaus.jackson:jackson-core-asl:1.9.13'
 	implementation 'au.com.bytecode:opencsv:2.4'
 	implementation 'com.fasterxml.jackson:jackson-datatype-guava:1.9.2'
+	implementation 'com.cloudinary:cloudinary-http44:1.29.0'
 }
 
 test {

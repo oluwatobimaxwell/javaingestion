@@ -32,22 +32,24 @@ public class Generator extends DataGenerator {
 
     JSONObject generateSMS(String type){
         JSONObject sms = new JSONObject();
-        sms.put("number", randomPhoneNumber());
+        sms.put("number", personPhone().getString("phone"));
         sms.put("timestamp", stringTimeStamp());
         sms.put("status", getFromList(new String[]{"Read", "Unread"}));
         sms.put("folder", getFromList(new String[]{"Inbox", "Outbox", "Sent"}));
         sms.put("storage", getFromList(new String[]{"Phone", "Memory"}));
         sms.put("type", getFromList(new String[]{"Incoming", "Outgoing"}));
-        sms.put("text", getFaker().lorem().sentence());
-        sms.put("smsc", randomPhoneNumber());
+        //sms.put("text", getFaker().lorem().paragraph());
+        sms.put("text", getEnglishSMS());
+        sms.put("smsc", randomePhoneName().getString("phone"));
         sms.put("name", getFromList(getNetwork_providers()));
         return sms;
     }
 
     JSONObject generateImage(String type){
+        String _img = "77AF55EF0E3A1953D63CA16126830A9073009B32E17E9FBFFD63C18D64525ABF.jpg";
         JSONObject img = new JSONObject();
         String filename = getFaker().file().fileName(null, null, getFromList(new String[]{"png", "jpg", "jpeg", "gif"}), null);
-        img.put("name", filename);
+        img.put("name", _img);
         img.put("stored_name", filename);
         img.put("thumb_location", "Images/Thumbnail/"+filename);
         img.put("path", "Images/Pictures/"+filename);
@@ -57,6 +59,8 @@ public class Generator extends DataGenerator {
         img.put("date_time_modified", stringTimeStamp());
         img.put("sha256", sha256(filename+stringTimeStamp()));
         img.put("meta", "");
+        img.put("base64", _img);
+        img.put("extension", "jpg");
         return img;
     }
 
@@ -71,27 +75,32 @@ public class Generator extends DataGenerator {
         img.put("date_time", stringTimeStamp());
         img.put("date_time_modified", stringTimeStamp());
         img.put("sha256", sha256(filename+stringTimeStamp()));
+        img.put("base64", "xysvknquraugq9mtsdun.pdf");
+        img.put("extension", "pdf");
         return img;
     }
 
     JSONObject generateCall(String type){
-
+        JSONObject p = personPhone();
         JSONObject call = new JSONObject();
         call.put("type", type);
-        call.put("number", randomPhoneNumber());
-        call.put("name", getFaker().name().fullName());
+        call.put("number", p.getString("phone"));
+        call.put("name", p.getString("name"));
         call.put("timestamp", stringTimeStamp());
         call.put("duration", String.valueOf(randomInt(10, 3600)));
+        call.put("voice", "2105161502000032760_236154426.asf");
+        call.put("voice2", "2105161502000032760_236154426.mp3");
         return call;
     }
 
     JSONObject generateContact(String type){
         JSONObject d = new JSONObject();
-        d.put("name", getFaker().name().fullName());
+        JSONObject p = personPhone();
+        d.put("name", p.getString("name"));
         d.put("memory", getFromList(getContact_memory()));
         Map<String, String> c = new HashMap<>();
         c.put("designation", getFromList(getContact_designation()));
-        c.put("value", randomPhoneNumber());
+        c.put("value", p.getString("phone"));
         d.put("phone_number", c);
         return d;
     }

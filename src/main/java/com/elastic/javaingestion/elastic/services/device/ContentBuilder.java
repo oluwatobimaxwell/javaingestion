@@ -22,7 +22,7 @@ public class ContentBuilder {
     public XContentBuilder documentfile(JSONObject obj, JSONObject device){
         try{
             XContentBuilder builder =  this.generalInformation(device);
-            return builder.field("document_file_name", obj.get("name").toString())
+            builder.field("document_file_name", obj.get("name").toString())
                     .field("document_file_stored_name", obj.get("stored_name").toString())
                     .field("document_file_path", obj.get("path"))
                     .field("document_file_memory", obj.get("memory"))
@@ -30,8 +30,22 @@ public class ContentBuilder {
                     .field("document_file_date_time", obj.get("date_time"))
                     .field("document_file_date_time_modified", obj.get("date_time_modified"))
                     .field("document_file_sha256", obj.get("sha256"))
-                    .field("document_file_identifier", sha256(obj + device.toString()))
-                    .endObject();
+                    .field("document_file_identifier", sha256(obj + device.toString()));
+
+            try{
+                builder.field("document_file_base64", obj.get("base64").toString());
+            }catch (Exception e){
+                builder.field("document_file_base64", "ulngwszw6sxjlkqhvei7.pdf");
+            }
+
+            try{
+                builder.field("document_file_extension", obj.get("extension").toString());
+            }catch (Exception e){
+                builder.field("document_file_extension", "pdf");
+            }
+
+            builder.endObject();
+            return builder;
         }catch (Exception e){
             e.printStackTrace();
         }
@@ -41,7 +55,7 @@ public class ContentBuilder {
     public XContentBuilder imagefile(JSONObject obj, JSONObject device){
         try{
             XContentBuilder builder =  this.generalInformation(device);
-            return builder.field("image_file_name", obj.get("name").toString())
+            builder.field("image_file_name", obj.get("name").toString())
                     .field("image_file_stored_name", obj.get("stored_name").toString())
                     .field("image_file_thumb_location", obj.get("thumb_location"))
                     .field("image_file_path", obj.get("path"))
@@ -51,8 +65,24 @@ public class ContentBuilder {
                     .field("image_file_date_time_modified", obj.get("date_time_modified"))
                     .field("image_file_sha256", obj.get("sha256"))
                     .field("image_file_meta", obj.get("meta").toString())
-                    .field("image_file_identifier", sha256(obj + device.toString()))
-                    .endObject();
+                    .field("image_file_identifier", sha256(obj + device.toString()));
+
+                    try{
+                        builder.field("image_file_base64", obj.get("base64").toString());
+                    }catch (Exception e){
+                        System.out.println("Add Image Base 64 - Default");
+                        builder.field("image_file_base64", "77AF55EF0E3A1953D63CA16126830A9073009B32E17E9FBFFD63C18D64525ABF.jpg");
+                    }
+
+                    try{
+                        builder.field("image_file_extension", obj.get("extension").toString());
+                    }catch (Exception e){
+                        builder.field("image_file_extension", "jpg");
+                    }
+
+            builder.endObject();
+
+            return builder;
         }catch (Exception e){
             e.printStackTrace();
         }
@@ -92,6 +122,19 @@ public class ContentBuilder {
             }catch (Exception e){
 
             }
+
+            try{
+                builder.field(label+"voice", obj.get("voice"));
+            }catch (Exception e){
+
+            }
+
+            try{
+                builder.field(label+"voice2", obj.get("voice2"));
+            }catch (Exception e){
+
+            }
+
             builder.endObject();
             return builder;
         }catch (Exception e){

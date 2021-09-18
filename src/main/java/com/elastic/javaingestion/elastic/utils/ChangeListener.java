@@ -40,9 +40,7 @@ public class ChangeListener implements FileChangeListener {
 
                     System.out.println(cfile.getFile().getName() +" * "+ cfile.getFile().toPath());
 
-
                     readFile(cfile.getFile().getName(), cfile.getFile().toPath());
-
 
                 }else{
                     System.out.println("A "+cfile.getType()+" file detected is LOCKED");
@@ -65,9 +63,12 @@ public class ChangeListener implements FileChangeListener {
 
     private void readFile(String name, Path path){
         try {
-            String imgs = "jpg jpeg png gif pdf doc docx xlcx";
+            String imgs = "jpg jpeg png gif pdf doc docx xls xlxs";
+            String support = "xml json csv log";
             String ext = StringUtils.getFilenameExtension(path.toString());
-            if(imgs.contains(ext)){
+            if(ext.equals("DS_Store")) return;
+
+            if(!support.contains(ext)){
                 cp.uploadFile(name, ext, path);
             }else{
                 BufferedReader reader = Files.newBufferedReader(path);
